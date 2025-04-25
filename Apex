@@ -1,0 +1,23 @@
+apex-arc-engine/
+│
+├── .github/
+│   └── workflows/
+│       ├── daily_cron.yaml          # Triggers daily simulation + deploy
+│       └── push_to_render.yaml      # Deploy on code push to main
+│
+├── apex/
+│   ├── simulate.py                  # Main HR prediction script
+│   ├── diagnostics.py               # Missed HR analysis + overlay updates
+│   ├── shadowbot.py                 # Discord alert + HR tracker
+│   ├── models/                      # Stored trained models or logic layers
+│   └── utils/                       # Shared logic (data fetch, stats calc)
+│
+├── data/
+│   ├── apex_top30.csv               # Daily ranked HR list
+│   ├── parlay_stacks.csv            # Top stack combinations
+│   ├── hr_tracker.csv               # Daily log of all HRs hit
+│
+├── render.yaml                      # Deploy instructions for Render
+├── requirements.txt                 # Python dependencies
+├── README.md                        # Deployment instructions + usage
+└── .env.example                     # Template for API keys / webhook secrets
