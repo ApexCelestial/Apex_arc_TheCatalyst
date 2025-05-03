@@ -1,0 +1,2 @@
+Date,Days_Analyzed,Total_Predictions,Hit_Count,Miss_Count,Surprise_Count,Hit_Rate,Surprise_Rate,Best_Team,Best_Team_Rate,Worst_Team,Worst_Team_Rate,A+_Performance,Hit_Rate_Alert,Surprise_Rate_Alert
+2025-04-27,1,30,0,30,9,0.0,1.0,Unknown,0.0,Unknown,0.0,0.0,True,True

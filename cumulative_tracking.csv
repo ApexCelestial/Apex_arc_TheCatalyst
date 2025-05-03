@@ -1,0 +1,79 @@
+Date,Player,Team,HR_Score,Confidence,Actual_HR,Result,Multiple_HR
+2025-04-26,Player 9,Unknown,18.1726500243138,A+,0,Miss,False
+2025-04-26,Player 38,Unknown,17.868424118099767,A+,0,Miss,False
+2025-04-26,Player 18,Unknown,17.187654701017376,A+,0,Miss,False
+2025-04-26,Player 33,Unknown,17.112830764733314,A,0,Miss,False
+2025-04-26,Player 3,Unknown,16.88962360447034,A,0,Miss,False
+2025-04-26,Player 10,Unknown,16.755209386585978,A,0,Miss,False
+2025-04-26,Player 26,Unknown,16.507105104664095,A,0,Miss,False
+2025-04-26,Player 8,Unknown,16.37102317499762,A,0,Miss,False
+2025-04-26,Player 11,Unknown,16.334697648394712,A-,0,Miss,False
+2025-04-26,Player 31,Unknown,16.324287370553275,A-,0,Miss,False
+2025-04-26,Player 45,Unknown,16.2059363608466,A-,0,Miss,False
+2025-04-26,Player 21,Unknown,16.09753489012182,A-,0,Miss,False
+2025-04-26,Player 42,Unknown,16.086362250944223,B+,0,Miss,False
+2025-04-26,Player 43,Unknown,16.04857610488735,B+,0,Miss,False
+2025-04-26,Player 34,Unknown,15.689367861712228,B+,0,Miss,False
+2025-04-26,Player 5,Unknown,15.65510078235604,B+,0,Miss,False
+2025-04-26,Player 17,Unknown,15.509290175363676,B+,0,Miss,False
+2025-04-26,Player 22,Unknown,15.43926196181697,B+,0,Miss,False
+2025-04-26,Player 25,Unknown,15.09950870062538,B+,0,Miss,False
+2025-04-26,Player 35,Unknown,15.057618084048432,B+,0,Miss,False
+2025-04-26,Player 30,Unknown,14.92774173091677,B+,0,Miss,False
+2025-04-26,Player 40,Unknown,14.781620328280784,B+,0,Miss,False
+2025-04-26,Player 16,Unknown,14.602880600024111,B+,0,Miss,False
+2025-04-26,Player 20,Unknown,14.52893175757988,B+,0,Miss,False
+2025-04-26,Player 37,Unknown,14.450564781745516,B+,0,Miss,False
+2025-04-26,Player 27,Unknown,14.197891986218892,B+,0,Miss,False
+2025-04-26,Player 36,Unknown,14.178564283332369,B+,0,Miss,False
+2025-04-26,Player 46,Unknown,13.798386145235334,B+,0,Miss,False
+2025-04-26,Player 12,Unknown,13.649633039559342,B+,0,Miss,False
+2025-04-26,Player 2,Unknown,13.496420655764023,B+,0,Miss,False
+2025-04-26,Aaron Judge,NYY,0.0,,1,Surprise,False
+2025-04-26,Bobby Witt Jr.,KC,0.0,,3,Surprise,True
+2025-04-26,Fernando Tatis Jr.,SD,0.0,,1,Surprise,False
+2025-04-26,Francisco Lindor,NYM,0.0,,3,Surprise,True
+2025-04-26,Gunnar Henderson,BAL,0.0,,2,Surprise,True
+2025-04-26,Kyle Schwarber,PHI,0.0,,1,Surprise,False
+2025-04-26,Mike Trout,LAA,0.0,,1,Surprise,False
+2025-04-26,Pete Alonso,NYM,0.0,,1,Surprise,False
+2025-04-26,Ronald Acuña Jr.,ATL,0.0,,1,Surprise,False
+2025-04-26,Player 9,Unknown,18.1726500243138,A+,0,Miss,False
+2025-04-26,Player 38,Unknown,17.868424118099767,A+,0,Miss,False
+2025-04-26,Player 18,Unknown,17.187654701017376,A+,0,Miss,False
+2025-04-26,Player 33,Unknown,17.112830764733314,A,0,Miss,False
+2025-04-26,Player 3,Unknown,16.88962360447034,A,0,Miss,False
+2025-04-26,Player 10,Unknown,16.755209386585978,A,0,Miss,False
+2025-04-26,Player 26,Unknown,16.507105104664095,A,0,Miss,False
+2025-04-26,Player 8,Unknown,16.37102317499762,A,0,Miss,False
+2025-04-26,Player 11,Unknown,16.334697648394712,A-,0,Miss,False
+2025-04-26,Player 31,Unknown,16.324287370553275,A-,0,Miss,False
+2025-04-26,Player 45,Unknown,16.2059363608466,A-,0,Miss,False
+2025-04-26,Player 21,Unknown,16.09753489012182,A-,0,Miss,False
+2025-04-26,Player 42,Unknown,16.086362250944223,B+,0,Miss,False
+2025-04-26,Player 43,Unknown,16.04857610488735,B+,0,Miss,False
+2025-04-26,Player 34,Unknown,15.689367861712228,B+,0,Miss,False
+2025-04-26,Player 5,Unknown,15.65510078235604,B+,0,Miss,False
+2025-04-26,Player 17,Unknown,15.509290175363676,B+,0,Miss,False
+2025-04-26,Player 22,Unknown,15.43926196181697,B+,0,Miss,False
+2025-04-26,Player 25,Unknown,15.09950870062538,B+,0,Miss,False
+2025-04-26,Player 35,Unknown,15.057618084048432,B+,0,Miss,False
+2025-04-26,Player 30,Unknown,14.92774173091677,B+,0,Miss,False
+2025-04-26,Player 40,Unknown,14.781620328280784,B+,0,Miss,False
+2025-04-26,Player 16,Unknown,14.602880600024111,B+,0,Miss,False
+2025-04-26,Player 20,Unknown,14.52893175757988,B+,0,Miss,False
+2025-04-26,Player 37,Unknown,14.450564781745516,B+,0,Miss,False
+2025-04-26,Player 27,Unknown,14.197891986218892,B+,0,Miss,False
+2025-04-26,Player 36,Unknown,14.178564283332369,B+,0,Miss,False
+2025-04-26,Player 46,Unknown,13.798386145235334,B+,0,Miss,False
+2025-04-26,Player 12,Unknown,13.649633039559342,B+,0,Miss,False
+2025-04-26,Player 2,Unknown,13.496420655764023,B+,0,Miss,False
+2025-04-26,Aaron Judge,NYY,0.0,None,1,Surprise,False
+2025-04-26,Bobby Witt Jr.,KC,0.0,None,3,Surprise,True
+2025-04-26,Fernando Tatis Jr.,SD,0.0,None,1,Surprise,False
+2025-04-26,Francisco Lindor,NYM,0.0,None,3,Surprise,True
+2025-04-26,Gunnar Henderson,BAL,0.0,None,2,Surprise,True
+2025-04-26,Kyle Schwarber,PHI,0.0,None,1,Surprise,False
+2025-04-26,Mike Trout,LAA,0.0,None,1,Surprise,False
+2025-04-26,Pete Alonso,NYM,0.0,None,1,Surprise,False
+2025-04-26,Ronald Acuña Jr.,ATL,0.0,None,1,Surprise,False

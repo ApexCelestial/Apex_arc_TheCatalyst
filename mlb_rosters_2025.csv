@@ -1,0 +1,783 @@
+player_id,player_name,position,position_name,jersey_number,bats,throws,age,height,weight,team,team_name,team_id,league,division,status
+667670,Brent Rooker,LF,Outfielder,25,Right,Right,30,"6' 3""",225,ATH,Athletics,133,American League,American League West,Active
+570482,Gio Urshela,3B,Third Base,13,Right,Right,33,"6' 0""",215,ATH,Athletics,133,American League,American League West,Active
+680880,Grant Holman,P,Pitcher,67,Right,Right,24,"6' 6""",250,ATH,Athletics,133,American League,American League West,Active
+663687,Hogan Harris,P,Pitcher,36,Right,Left,28,"6' 3""",230,ATH,Athletics,133,American League,American League West,Active
+668709,JJ Bleday,CF,Outfielder,33,Left,Left,27,"6' 2""",205,ATH,Athletics,133,American League,American League West,Active
+676664,JP Sears,P,Pitcher,38,Right,Left,29,"5' 11""",180,ATH,Athletics,133,American League,American League West,Active
+682052,Jacob Lopez,P,Pitcher,57,Left,Left,27,"6' 4""",220,ATH,Athletics,133,American League,American League West,Active
+805779,Jacob Wilson,SS,Shortstop,5,Right,Right,23,"6' 2""",190,ATH,Athletics,133,American League,American League West,Active
+605488,Jeffrey Springs,P,Pitcher,59,Left,Left,32,"6' 3""",218,ATH,Athletics,133,American League,American League West,Active
+640902,Jhonny Pereda,C,Catcher,64,Right,Right,29,"6' 1""",202,ATH,Athletics,133,American League,American League West,Active
+686993,Justin Sterner,P,Pitcher,60,Right,Right,28,"6' 1""",215,ATH,Athletics,133,American League,American League West,Active
+671732,Lawrence Butler,RF,Outfielder,4,Left,Right,24,"6' 3""",210,ATH,Athletics,133,American League,American League West,Active
+622663,Luis Severino,P,Pitcher,40,Right,Right,31,"6' 2""",218,ATH,Athletics,133,American League,American League West,Active
+649966,Luis Urías,3B,Third Base,17,Right,Right,27,"5' 9""",202,ATH,Athletics,133,American League,American League West,Active
+695243,Mason Miller,P,Pitcher,19,Right,Right,26,"6' 5""",200,ATH,Athletics,133,American League,American League West,Active
+680474,Max Schuemann,3B,Third Base,12,Right,Right,27,"6' 0""",186,ATH,Athletics,133,American League,American League West,Active
+609280,Miguel Andujar,LF,Outfielder,22,Right,Right,30,"6' 0""",211,ATH,Athletics,133,American League,American League West,Active
+687765,Mitch Spence,P,Pitcher,28,Right,Right,26,"6' 1""",185,ATH,Athletics,133,American League,American League West,Active
+701762,Nick Kurtz,1B,First Base,16,Left,Left,22,"6' 5""",240,ATH,Athletics,133,American League,American League West,Active
+668716,Noah Murdock,P,Pitcher,58,Right,Right,26,"6' 8""",205,ATH,Athletics,133,American League,American League West,Active
+674370,Osvaldo Bido,P,Pitcher,45,Right,Right,29,"6' 3""",175,ATH,Athletics,133,American League,American League West,Active
+664913,Seth Brown,LF,Outfielder,15,Left,Left,32,"6' 1""",223,ATH,Athletics,133,American League,American League West,Active
+669127,Shea Langeliers,C,Catcher,23,Right,Right,27,"6' 0""",205,ATH,Athletics,133,American League,American League West,Active
+519008,T.J. McFarland,P,Pitcher,48,Left,Left,35,"6' 3""",200,ATH,Athletics,133,American League,American League West,Active
+621053,Tyler Ferguson,P,Pitcher,44,Right,Right,31,"6' 4""",225,ATH,Athletics,133,American League,American League West,Active
+691016,Tyler Soderstrom,1B,First Base,21,Left,Right,23,"6' 2""",200,ATH,Athletics,133,American League,American League West,Active
+624428,Adam Frazier,2B,Second Base,26,Left,Right,33,"5' 10""",190,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+672744,Alexander Canario,RF,Outfielder,29,Right,Right,24,"6' 1""",215,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+571760,Andrew Heaney,P,Pitcher,45,Left,Left,33,"6' 2""",200,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+457705,Andrew McCutchen,RF,Outfielder,22,Right,Right,38,"5' 10""",190,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+663559,Bailey Falter,P,Pitcher,6,Right,Left,28,"6' 4""",205,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+668804,Bryan Reynolds,RF,Outfielder,10,Switch,Right,30,"6' 2""",205,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+657571,Caleb Ferguson,P,Pitcher,64,Right,Left,28,"6' 3""",225,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+669387,Carmen Mlodzinski,P,Pitcher,50,Right,Right,26,"6' 2""",220,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+663767,Chase Shugart,P,Pitcher,55,Left,Right,28,"5' 11""",200,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+670059,Colin Holderman,P,Pitcher,35,Right,Right,29,"6' 6""",230,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+670280,David Bednar,P,Pitcher,51,Left,Right,30,"6' 1""",250,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+642701,Dennis Santana,P,Pitcher,60,Right,Right,29,"6' 2""",190,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+665839,Enmanuel Valdez,1B,First Base,48,Left,Right,26,"5' 9""",190,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+680779,Henry Davis,C,Catcher,32,Right,Right,25,"6' 0""",225,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+643396,Isiah Kiner-Falefa,SS,Shortstop,7,Right,Right,30,"5' 10""",195,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+669707,Jared Triolo,2B,Second Base,19,Right,Right,27,"6' 3""",210,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+663698,Joey Bart,C,Catcher,14,Right,Right,28,"6' 3""",235,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+666214,Joey Wentz,P,Pitcher,34,Left,Left,27,"6' 5""",220,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+663647,Ke'Bryan Hayes,3B,Third Base,13,Right,Right,28,"5' 11""",215,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+693312,Kyle Nicolas,P,Pitcher,66,Right,Right,26,"6' 3""",225,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+685301,Matt Gorski,CF,Outfielder,62,Right,Right,27,"6' 2""",220,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+656605,Mitch Keller,P,Pitcher,23,Right,Right,29,"6' 3""",212,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+665833,Oneil Cruz,CF,Outfielder,15,Left,Right,26,"6' 7""",240,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+694973,Paul Skenes,P,Pitcher,30,Right,Right,22,"6' 6""",260,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+621366,Ryan Borucki,P,Pitcher,43,Left,Left,31,"6' 4""",210,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+502054,Tommy Pham,LF,Outfielder,28,Right,Right,37,"6' 1""",225,PIT,Pittsburgh Pirates,134,National League,National League Central,Active
+670970,Adrian Morejon,P,Pitcher,50,Left,Left,26,"5' 11""",224,SD,San Diego Padres,135,National League,National League West,Active
+689690,Alek Jacob,P,Pitcher,37,Left,Right,26,"6' 3""",190,SD,San Diego Padres,135,National League,National League West,Active
+656582,Connor Joe,1B,First Base,24,Right,Right,32,"5' 11""",205,SD,San Diego Padres,135,National League,National League West,Active
+688158,David Morgan,P,Pitcher,66,Right,Right,25,"6' 0""",185,SD,San Diego Padres,135,National League,National League West,Active
+656302,Dylan Cease,P,Pitcher,84,Right,Right,29,"6' 2""",200,SD,San Diego Padres,135,National League,National League West,Active
+553869,Elias Díaz,C,Catcher,17,Right,Right,34,"6' 1""",223,SD,San Diego Padres,135,National League,National League West,Active
+665487,Fernando Tatis Jr.,RF,Outfielder,23,Right,Right,26,"6' 3""",217,SD,San Diego Padres,135,National League,National League West,Active
+657757,Gavin Sheets,LF,Outfielder,30,Left,Left,29,"6' 3""",235,SD,San Diego Padres,135,National League,National League West,Active
+592094,Jason Adam,P,Pitcher,40,Right,Right,33,"6' 3""",229,SD,San Diego Padres,135,National League,National League West,Active
+669093,Jeremiah Estrada,P,Pitcher,56,Switch,Right,26,"6' 1""",185,SD,San Diego Padres,135,National League,National League West,Active
+578428,Jose Iglesias,2B,Second Base,7,Right,Right,35,"5' 11""",195,SD,San Diego Padres,135,National League,National League West,Active
+592518,Manny Machado,3B,Third Base,13,Right,Right,32,"6' 2""",218,SD,San Diego Padres,135,National League,National League West,Active
+455117,Martín Maldonado,C,Catcher,15,Right,Right,38,"6' 0""",230,SD,San Diego Padres,135,National League,National League West,Active
+669200,Mason McCoy,SS,Shortstop,18,Right,Right,30,"5' 11""",185,SD,San Diego Padres,135,National League,National League West,Active
+650633,Michael King,P,Pitcher,34,Right,Right,29,"6' 3""",210,SD,San Diego Padres,135,National League,National League West,Active
+601713,Nick Pivetta,P,Pitcher,27,Right,Right,32,"6' 5""",210,SD,San Diego Padres,135,National League,National League West,Active
+660757,Oscar Gonzalez,LF,Outfielder,39,Right,Right,27,"6' 5""",240,SD,San Diego Padres,135,National League,National League West,Active
+681190,Randy Vásquez,P,Pitcher,98,Right,Right,26,"6' 0""",165,SD,San Diego Padres,135,National League,National League West,Active
+663158,Robert Suarez,P,Pitcher,75,Right,Right,34,"6' 2""",210,SD,San Diego Padres,135,National League,National League West,Active
+686701,Ryan Bergert,P,Pitcher,38,Right,Right,25,"6' 1""",210,SD,San Diego Padres,135,National League,National League West,Active
+672359,Tirso Ornelas,LF,Outfielder,21,Left,Right,25,"6' 3""",200,SD,San Diego Padres,135,National League,National League West,Active
+642180,Tyler Wade,CF,Outfielder,14,Left,Right,30,"6' 0""",188,SD,San Diego Padres,135,National League,National League West,Active
+593974,Wandy Peralta,P,Pitcher,58,Left,Left,33,"6' 0""",227,SD,San Diego Padres,135,National League,National League West,Active
+593428,Xander Bogaerts,SS,Shortstop,2,Right,Right,32,"6' 2""",218,SD,San Diego Padres,135,National League,National League West,Active
+673513,Yuki Matsui,P,Pitcher,1,Left,Left,29,"5' 8""",165,SD,San Diego Padres,135,National League,National League West,Active
+493329,Yuli Gurriel,1B,First Base,10,Right,Right,40,"6' 0""",215,SD,San Diego Padres,135,National League,National League West,Active
+662253,Andrés Muñoz,P,Pitcher,75,Right,Right,26,"6' 2""",222,SEA,Seattle Mariners,136,American League,American League West,Active
+810938,Ben Williamson,3B,Third Base,9,Right,Right,24,"6' 0""",210,SEA,Seattle Mariners,136,American League,American League West,Active
+693433,Bryan Woo,P,Pitcher,22,Right,Right,25,"6' 2""",205,SEA,Seattle Mariners,136,American League,American League West,Active
+682243,Bryce Miller,P,Pitcher,50,Right,Right,26,"6' 2""",200,SEA,Seattle Mariners,136,American League,American League West,Active
+663728,Cal Raleigh,C,Catcher,29,Switch,Right,28,"6' 2""",235,SEA,Seattle Mariners,136,American League,American League West,Active
+672841,Carlos Vargas,P,Pitcher,54,Right,Right,25,"6' 4""",210,SEA,Seattle Mariners,136,American League,American League West,Active
+668984,Casey Legumina,P,Pitcher,64,Right,Right,27,"6' 2""",195,SEA,Seattle Mariners,136,American League,American League West,Active
+676092,Collin Snider,P,Pitcher,52,Right,Right,29,"6' 4""",195,SEA,Seattle Mariners,136,American League,American League West,Active
+456781,Donovan Solano,1B,First Base,39,Right,Right,37,"5' 8""",210,SEA,Seattle Mariners,136,American League,American League West,Active
+664238,Dylan Moore,3B,Third Base,25,Right,Right,32,"6' 0""",205,SEA,Seattle Mariners,136,American League,American League West,Active
+660825,Eduard Bazardo,P,Pitcher,83,Right,Right,29,"6' 0""",190,SEA,Seattle Mariners,136,American League,American League West,Active
+676106,Emerson Hancock,P,Pitcher,26,Right,Right,25,"6' 4""",213,SEA,Seattle Mariners,136,American League,American League West,Active
+642100,Gabe Speier,P,Pitcher,55,Left,Left,30,"5' 11""",200,SEA,Seattle Mariners,136,American League,American League West,Active
+641487,J.P. Crawford,SS,Shortstop,3,Left,Right,30,"6' 0""",202,SEA,Seattle Mariners,136,American League,American League West,Active
+593871,Jorge Polanco,3B,Third Base,7,Switch,Right,31,"6' 0""",208,SEA,Seattle Mariners,136,American League,American League West,Active
+677594,Julio Rodríguez,CF,Outfielder,44,Right,Right,24,"6' 3""",228,SEA,Seattle Mariners,136,American League,American League West,Active
+660844,Leo Rivas,2B,Second Base,76,Switch,Right,27,"5' 8""",150,SEA,Seattle Mariners,136,American League,American League West,Active
+688138,Logan Evans,P,Pitcher,73,Right,Right,23,"6' 4""",215,SEA,Seattle Mariners,136,American League,American League West,Active
+622491,Luis Castillo,P,Pitcher,58,Right,Right,32,"6' 2""",200,SEA,Seattle Mariners,136,American League,American League West,Active
+670042,Luke Raley,RF,Outfielder,20,Left,Right,30,"6' 3""",235,SEA,Seattle Mariners,136,American League,American League West,Active
+670156,Miles Mastrobuoni,3B,Third Base,21,Left,Right,29,"5' 10""",185,SEA,Seattle Mariners,136,American League,American League West,Active
+641598,Mitch Garver,C,Catcher,18,Right,Right,34,"6' 1""",220,SEA,Seattle Mariners,136,American League,American League West,Active
+668227,Randy Arozarena,LF,Outfielder,56,Right,Right,30,"5' 10""",185,SEA,Seattle Mariners,136,American League,American League West,Active
+642133,Rowdy Tellez,1B,First Base,23,Left,Left,30,"6' 4""",270,SEA,Seattle Mariners,136,American League,American League West,Active
+663423,Trent Thornton,P,Pitcher,46,Right,Right,31,"6' 0""",190,SEA,Seattle Mariners,136,American League,American League West,Active
+700187,Troy Taylor,P,Pitcher,59,Right,Right,23,"6' 0""",205,SEA,Seattle Mariners,136,American League,American League West,Active
+666808,Camilo Doval,P,Pitcher,75,Right,Right,27,"6' 2""",205,SF,San Francisco Giants,137,National League,National League West,Active
+683766,Christian Koss,2B,Second Base,50,Right,Right,27,"6' 1""",186,SF,San Francisco Giants,137,National League,National League West,Active
+681584,David Villar,2B,Second Base,32,Right,Right,28,"5' 11""",216,SF,San Francisco Giants,137,National League,National League West,Active
+669062,Erik Miller,P,Pitcher,68,Left,Left,27,"6' 5""",268,SF,San Francisco Giants,137,National League,National League West,Active
+806185,Hayden Birdsong,P,Pitcher,60,Right,Right,23,"6' 4""",216,SF,San Francisco Giants,137,National League,National League West,Active
+671218,Heliot Ramos,LF,Outfielder,17,Right,Right,25,"5' 11""",230,SF,San Francisco Giants,137,National League,National League West,Active
+663855,Jordan Hicks,P,Pitcher,12,Right,Right,28,"6' 2""",217,SF,San Francisco Giants,137,National League,National League West,Active
+808982,Jung Hoo Lee,CF,Outfielder,51,Left,Right,26,"6' 0""",197,SF,San Francisco Giants,137,National League,National League West,Active
+434378,Justin Verlander,P,Pitcher,35,Right,Right,42,"6' 5""",240,SF,San Francisco Giants,137,National League,National League West,Active
+664774,LaMonte Wade Jr.,1B,First Base,31,Left,Left,31,"5' 11""",215,SF,San Francisco Giants,137,National League,National League West,Active
+694738,Landen Roupp,P,Pitcher,65,Right,Right,26,"6' 2""",215,SF,San Francisco Giants,137,National League,National League West,Active
+657277,Logan Webb,P,Pitcher,62,Right,Right,28,"6' 1""",223,SF,San Francisco Giants,137,National League,National League West,Active
+642152,Lou Trivino,P,Pitcher,56,Right,Right,33,"6' 5""",232,SF,San Francisco Giants,137,National League,National League West,Active
+682641,Luis Matos,RF,Outfielder,29,Right,Right,23,"5' 11""",207,SF,San Francisco Giants,137,National League,National League West,Active
+656305,Matt Chapman,3B,Third Base,26,Right,Right,31,"6' 1""",225,SF,San Francisco Giants,137,National League,National League West,Active
+573262,Mike Yastrzemski,RF,Outfielder,5,Left,Left,34,"5' 11""",180,SF,San Francisco Giants,137,National League,National League West,Active
+672275,Patrick Bailey,C,Catcher,14,Switch,Right,25,"6' 0""",225,SF,San Francisco Giants,137,National League,National League West,Active
+678495,Randy Rodríguez,P,Pitcher,73,Right,Right,25,"6' 0""",195,SF,San Francisco Giants,137,National League,National League West,Active
+592662,Robbie Ray,P,Pitcher,38,Left,Left,33,"6' 2""",208,SF,San Francisco Giants,137,National League,National League West,Active
+676254,Ryan Walker,P,Pitcher,74,Right,Right,29,"6' 2""",212,SF,San Francisco Giants,137,National League,National League West,Active
+669087,Sam Huff,C,Catcher,23,Right,Right,27,"6' 4""",242,SF,San Francisco Giants,137,National League,National League West,Active
+702352,Spencer Bivens,P,Pitcher,76,Right,Right,30,"6' 5""",217,SF,San Francisco Giants,137,National League,National League West,Active
+666149,Tyler Fitzgerald,2B,Second Base,49,Right,Right,27,"6' 2""",208,SF,San Francisco Giants,137,National League,National League West,Active
+643511,Tyler Rogers,P,Pitcher,71,Right,Right,34,"6' 3""",180,SF,San Francisco Giants,137,National League,National League West,Active
+642715,Willy Adames,SS,Shortstop,2,Right,Right,29,"6' 0""",215,SF,San Francisco Giants,137,National League,National League West,Active
+527038,Wilmer Flores,1B,First Base,41,Right,Right,33,"6' 3""",225,SF,San Francisco Giants,137,National League,National League West,Active
+676475,Alec Burleson,1B,First Base,41,Left,Left,26,"6' 0""",225,STL,St. Louis Cardinals,138,National League,National League Central,Active
+669467,Andre Pallante,P,Pitcher,53,Right,Right,26,"6' 0""",215,STL,St. Louis Cardinals,138,National League,National League Central,Active
+680977,Brendan Donovan,2B,Second Base,33,Left,Right,28,"5' 11""",210,STL,St. Louis Cardinals,138,National League,National League Central,Active
+607200,Erick Fedde,P,Pitcher,12,Right,Right,32,"6' 4""",205,STL,St. Louis Cardinals,138,National League,National League Central,Active
+668941,JoJo Romero,P,Pitcher,59,Left,Left,28,"5' 11""",215,STL,St. Louis Cardinals,138,National League,National League Central,Active
+667463,John King,P,Pitcher,47,Left,Left,30,"6' 2""",215,STL,St. Louis Cardinals,138,National League,National League Central,Active
+691023,Jordan Walker,RF,Outfielder,18,Right,Right,22,"6' 6""",250,STL,St. Louis Cardinals,138,National League,National League Central,Active
+681517,Kyle Leahy,P,Pitcher,62,Switch,Right,27,"6' 5""",225,STL,St. Louis Cardinals,138,National League,National League Central,Active
+663457,Lars Nootbaar,LF,Outfielder,21,Left,Right,27,"6' 1""",205,STL,St. Louis Cardinals,138,National League,National League Central,Active
+663609,Luken Baker,1B,First Base,26,Right,Right,28,"6' 4""",285,STL,St. Louis Cardinals,138,National League,National League Central,Active
+691026,Masyn Winn,SS,Shortstop,0,Right,Right,23,"5' 9""",185,STL,St. Louis Cardinals,138,National League,National League Central,Active
+694335,Matt Svanson,P,Pitcher,49,Right,Right,26,"6' 5""",235,STL,St. Louis Cardinals,138,National League,National League Central,Active
+669461,Matthew Liberatore,P,Pitcher,52,Left,Left,25,"6' 4""",215,STL,St. Louis Cardinals,138,National League,National League Central,Active
+571945,Miles Mikolas,P,Pitcher,39,Right,Right,36,"6' 4""",230,STL,St. Louis Cardinals,138,National League,National League Central,Active
+571448,Nolan Arenado,3B,Third Base,28,Right,Right,34,"6' 2""",215,STL,St. Louis Cardinals,138,National League,National League Central,Active
+669357,Nolan Gorman,2B,Second Base,16,Left,Right,24,"6' 0""",225,STL,St. Louis Cardinals,138,National League,National League Central,Active
+686780,Pedro Pagés,C,Catcher,43,Right,Right,26,"5' 11""",245,STL,St. Louis Cardinals,138,National League,National League Central,Active
+664208,Phil Maton,P,Pitcher,88,Right,Right,32,"6' 2""",206,STL,St. Louis Cardinals,138,National League,National League Central,Active
+676617,Riley O'Brien,P,Pitcher,55,Right,Right,30,"6' 4""",180,STL,St. Louis Cardinals,138,National League,National League Central,Active
+664854,Ryan Helsley,P,Pitcher,56,Right,Right,30,"6' 2""",235,STL,St. Louis Cardinals,138,National League,National League Central,Active
+543243,Sonny Gray,P,Pitcher,54,Right,Right,35,"5' 10""",190,STL,St. Louis Cardinals,138,National League,National League Central,Active
+571927,Steven Matz,P,Pitcher,32,Right,Left,33,"6' 2""",205,STL,St. Louis Cardinals,138,National League,National League Central,Active
+695336,Thomas Saggese,SS,Shortstop,25,Right,Right,23,"5' 11""",185,STL,St. Louis Cardinals,138,National League,National League Central,Active
+687363,Victor Scott II,CF,Outfielder,11,Left,Left,24,"5' 11""",190,STL,St. Louis Cardinals,138,National League,National League Central,Active
+575929,Willson Contreras,1B,First Base,40,Right,Right,32,"6' 1""",240,STL,St. Louis Cardinals,138,National League,National League Central,Active
+650968,Yohel Pozo,C,Catcher,63,Right,Right,27,"5' 11""",201,STL,St. Louis Cardinals,138,National League,National League Central,Active
+666163,Ben Rortvedt,C,Catcher,30,Left,Right,27,"5' 9""",210,TB,Tampa Bay Rays,139,American League,American League East,Active
+664040,Brandon Lowe,2B,Second Base,8,Left,Right,30,"5' 10""",190,TB,Tampa Bay Rays,139,American League,American League East,Active
+802415,Chandler Simpson,SS,Shortstop,14,Left,Right,24,"5' 11""",170,TB,Tampa Bay Rays,139,American League,American League East,Active
+666624,Christopher Morel,LF,Outfielder,24,Right,Right,25,"6' 0""",200,TB,Tampa Bay Rays,139,American League,American League East,Active
+678554,Curtis Mead,1B,First Base,25,Right,Right,24,"6' 1""",225,TB,Tampa Bay Rays,139,American League,American League East,Active
+643376,Danny Jansen,C,Catcher,19,Right,Right,30,"6' 1""",240,TB,Tampa Bay Rays,139,American League,American League East,Active
+656876,Drew Rasmussen,P,Pitcher,57,Right,Right,29,"6' 1""",240,TB,Tampa Bay Rays,139,American League,American League East,Active
+670955,Edwin Uceta,P,Pitcher,63,Right,Right,27,"6' 0""",210,TB,Tampa Bay Rays,139,American League,American League East,Active
+679358,Eric Orze,P,Pitcher,17,Right,Right,27,"6' 4""",205,TB,Tampa Bay Rays,139,American League,American League East,Active
+664076,Garrett Cleavinger,P,Pitcher,60,Right,Left,31,"6' 1""",225,TB,Tampa Bay Rays,139,American League,American League East,Active
+685801,Hunter Bigge,P,Pitcher,43,Right,Right,26,"6' 0""",215,TB,Tampa Bay Rays,139,American League,American League East,Active
+666018,Jonathan Aranda,1B,First Base,62,Left,Right,26,"6' 0""",215,TB,Tampa Bay Rays,139,American League,American League East,Active
+676609,José Caballero,RF,Outfielder,77,Right,Right,28,"5' 10""",190,TB,Tampa Bay Rays,139,American League,American League East,Active
+691406,Junior Caminero,3B,Third Base,13,Right,Right,21,"6' 1""",220,TB,Tampa Bay Rays,139,American League,American League East,Active
+670224,Kameron Misner,CF,Outfielder,26,Left,Left,27,"6' 4""",220,TB,Tampa Bay Rays,139,American League,American League East,Active
+655889,Manuel Rodríguez,P,Pitcher,39,Right,Right,28,"5' 11""",205,TB,Tampa Bay Rays,139,American League,American League East,Active
+669438,Mason Englert,P,Pitcher,59,Switch,Right,25,"6' 4""",205,TB,Tampa Bay Rays,139,American League,American League East,Active
+682254,Mason Montgomery,P,Pitcher,48,Left,Left,24,"6' 2""",205,TB,Tampa Bay Rays,139,American League,American League East,Active
+664126,Pete Fairbanks,P,Pitcher,29,Right,Right,31,"6' 6""",235,TB,Tampa Bay Rays,139,American League,American League East,Active
+686752,Ryan Pepiot,P,Pitcher,44,Right,Right,27,"6' 3""",210,TB,Tampa Bay Rays,139,American League,American League East,Active
+669358,Shane Baz,P,Pitcher,11,Right,Right,25,"6' 3""",200,TB,Tampa Bay Rays,139,American League,American League East,Active
+671737,Taj Bradley,P,Pitcher,45,Right,Right,24,"6' 2""",220,TB,Tampa Bay Rays,139,American League,American League East,Active
+670764,Taylor Walls,SS,Shortstop,6,Switch,Right,28,"5' 8""",185,TB,Tampa Bay Rays,139,American League,American League East,Active
+608671,Travis Jankowski,RF,Outfielder,20,Left,Right,33,"6' 3""",195,TB,Tampa Bay Rays,139,American League,American League East,Active
+650490,Yandy Díaz,1B,First Base,2,Right,Right,33,"6' 1""",235,TB,Tampa Bay Rays,139,American League,American League East,Active
+641793,Zack Littell,P,Pitcher,52,Right,Right,29,"6' 4""",250,TB,Tampa Bay Rays,139,American League,American League East,Active
+666969,Adolis García,RF,Outfielder,53,Right,Right,32,"6' 0""",205,TEX,Texas Rangers,140,American League,American League West,Active
+676961,Caleb Boushley,P,Pitcher,70,Right,Right,31,"6' 3""",190,TEX,Texas Rangers,140,American League,American League West,Active
+455119,Chris Martin,P,Pitcher,55,Right,Right,38,"6' 8""",224,TEX,Texas Rangers,140,American League,American League West,Active
+687957,Dustin Harris,LF,Outfielder,38,Left,Right,25,"6' 2""",185,TEX,Texas Rangers,140,American League,American League West,Active
+571948,Hoby Milner,P,Pitcher,41,Left,Left,34,"6' 3""",187,TEX,Texas Rangers,140,American League,American League West,Active
+683004,Jack Leiter,P,Pitcher,35,Right,Right,25,"6' 1""",205,TEX,Texas Rangers,140,American League,American League West,Active
+656641,Jacob Latz,P,Pitcher,67,Right,Left,29,"6' 2""",185,TEX,Texas Rangers,140,American League,American League West,Active
+657097,Jacob Webb,P,Pitcher,71,Right,Right,31,"6' 2""",210,TEX,Texas Rangers,140,American League,American League West,Active
+594798,Jacob deGrom,P,Pitcher,48,Left,Right,36,"6' 4""",180,TEX,Texas Rangers,140,American League,American League West,Active
+669394,Jake Burger,1B,First Base,21,Right,Right,29,"6' 0""",230,TEX,Texas Rangers,140,American League,American League West,Active
+592626,Joc Pederson,DH,Designated Hitter,4,Left,Left,33,"6' 1""",220,TEX,Texas Rangers,140,American League,American League West,Active
+641680,Jonah Heim,C,Catcher,28,Switch,Right,29,"6' 4""",220,TEX,Texas Rangers,140,American League,American League West,Active
+673962,Josh Jung,3B,Third Base,6,Right,Right,27,"6' 1""",214,TEX,Texas Rangers,140,American League,American League West,Active
+669701,Josh Smith,3B,Third Base,8,Left,Right,27,"5' 9""",172,TEX,Texas Rangers,140,American League,American League West,Active
+607680,Kevin Pillar,CF,Outfielder,1,Right,Right,36,"6' 0""",210,TEX,Texas Rangers,140,American League,American League West,Active
+543309,Kyle Higashioka,C,Catcher,11,Right,Right,35,"6' 0""",202,TEX,Texas Rangers,140,American League,American League West,Active
+665750,Leody Taveras,CF,Outfielder,3,Switch,Right,26,"6' 2""",195,TEX,Texas Rangers,140,American League,American League West,Active
+592426,Luke Jackson,P,Pitcher,77,Right,Right,33,"6' 2""",210,TEX,Texas Rangers,140,American League,American League West,Active
+543760,Marcus Semien,2B,Second Base,2,Right,Right,34,"6' 0""",195,TEX,Texas Rangers,140,American League,American League West,Active
+543135,Nathan Eovaldi,P,Pitcher,17,Right,Right,35,"6' 2""",217,TEX,Texas Rangers,140,American League,American League West,Active
+605113,Nick Ahmed,SS,Shortstop,23,Right,Right,35,"6' 1""",201,TEX,Texas Rangers,140,American League,American League West,Active
+571578,Patrick Corbin,P,Pitcher,46,Left,Left,35,"6' 4""",225,TEX,Texas Rangers,140,American League,American League West,Active
+676395,Robert Garcia,P,Pitcher,62,Right,Left,28,"6' 4""",236,TEX,Texas Rangers,140,American League,American League West,Active
+542888,Shawn Armstrong,P,Pitcher,43,Right,Right,34,"6' 2""",225,TEX,Texas Rangers,140,American League,American League West,Active
+641816,Tyler Mahle,P,Pitcher,51,Right,Right,30,"6' 3""",210,TEX,Texas Rangers,140,American League,American League West,Active
+694671,Wyatt Langford,LF,Outfielder,36,Right,Right,23,"6' 0""",225,TEX,Texas Rangers,140,American League,American League West,Active
+680718,Addison Barger,RF,Outfielder,47,Left,Right,25,"6' 0""",210,TOR,Toronto Blue Jays,141,American League,American League East,Active
+702176,Alan Roden,LF,Outfielder,18,Left,Right,25,"5' 11""",215,TOR,Toronto Blue Jays,141,American League,American League East,Active
+672386,Alejandro Kirk,C,Catcher,30,Right,Right,26,"5' 8""",245,TOR,Toronto Blue Jays,141,American League,American League East,Active
+665926,Andrés Giménez,2B,Second Base,0,Left,Right,26,"5' 11""",161,TOR,Toronto Blue Jays,141,American League,American League East,Active
+623993,Anthony Santander,RF,Outfielder,25,Switch,Right,30,"6' 0""",230,TOR,Toronto Blue Jays,141,American League,American League East,Active
+666182,Bo Bichette,SS,Shortstop,11,Right,Right,27,"5' 11""",190,TOR,Toronto Blue Jays,141,American League,American League East,Active
+670102,Bowden Francis,P,Pitcher,44,Right,Right,29,"6' 5""",220,TOR,Toronto Blue Jays,141,American League,American League East,Active
+663893,Brendon Little,P,Pitcher,54,Left,Left,28,"6' 2""",195,TOR,Toronto Blue Jays,141,American League,American League East,Active
+643338,Chad Green,P,Pitcher,57,Left,Right,33,"6' 3""",215,TOR,Toronto Blue Jays,141,American League,American League East,Active
+605135,Chris Bassitt,P,Pitcher,40,Right,Right,36,"6' 5""",217,TOR,Toronto Blue Jays,141,American League,American League East,Active
+622253,Dillon Tate,P,Pitcher,9,Right,Right,30,"6' 2""",190,TOR,Toronto Blue Jays,141,American League,American League East,Active
+676391,Ernie Clement,3B,Third Base,22,Right,Right,29,"5' 11""",170,TOR,Toronto Blue Jays,141,American League,American League East,Active
+543807,George Springer,RF,Outfielder,4,Right,Right,35,"6' 1""",220,TOR,Toronto Blue Jays,141,American League,American League East,Active
+656546,Jeff Hoffman,P,Pitcher,23,Right,Right,32,"6' 5""",235,TOR,Toronto Blue Jays,141,American League,American League East,Active
+682729,Jonatan Clase,LF,Outfielder,8,Switch,Right,22,"5' 10""",150,TOR,Toronto Blue Jays,141,American League,American League East,Active
+621244,José Berríos,P,Pitcher,17,Right,Right,30,"6' 0""",205,TOR,Toronto Blue Jays,141,American League,American League East,Active
+677020,Josh Walker,P,Pitcher,21,Left,Left,30,"6' 6""",225,TOR,Toronto Blue Jays,141,American League,American League East,Active
+592332,Kevin Gausman,P,Pitcher,34,Left,Right,34,"6' 2""",205,TOR,Toronto Blue Jays,141,American League,American League East,Active
+689254,Mason Fluharty,P,Pitcher,68,Right,Left,23,"6' 2""",215,TOR,Toronto Blue Jays,141,American League,American League East,Active
+664702,Myles Straw,CF,Outfielder,3,Right,Right,30,"5' 9""",178,TOR,Toronto Blue Jays,141,American League,American League East,Active
+664770,Nathan Lukes,CF,Outfielder,38,Left,Right,30,"5' 11""",180,TOR,Toronto Blue Jays,141,American League,American League East,Active
+687606,Paxton Schultz,P,Pitcher,65,Left,Right,27,"6' 3""",205,TOR,Toronto Blue Jays,141,American League,American League East,Active
+623168,Tyler Heineman,C,Catcher,55,Switch,Right,33,"5' 10""",190,TOR,Toronto Blue Jays,141,American League,American League East,Active
+665489,Vladimir Guerrero Jr.,1B,First Base,27,Right,Right,26,"6' 0""",245,TOR,Toronto Blue Jays,141,American League,American League East,Active
+695238,Will Wagner,3B,Third Base,7,Left,Right,26,"6' 0""",210,TOR,Toronto Blue Jays,141,American League,American League East,Active
+684320,Yariel Rodríguez,P,Pitcher,29,Right,Right,28,"6' 0""",165,TOR,Toronto Blue Jays,141,American League,American League East,Active
+554340,Yimi García,P,Pitcher,93,Right,Right,34,"6' 1""",230,TOR,Toronto Blue Jays,141,American League,American League East,Active
+641927,Bailey Ober,P,Pitcher,17,Right,Right,29,"6' 9""",260,MIN,Minnesota Twins,142,American League,American League Central,Active
+592779,Brock Stewart,P,Pitcher,61,Left,Right,33,"6' 3""",220,MIN,Minnesota Twins,142,American League,American League Central,Active
+686797,Brooks Lee,3B,Third Base,2,Switch,Right,24,"6' 1""",205,MIN,Minnesota Twins,142,American League,American League Central,Active
+621439,Byron Buxton,CF,Outfielder,25,Right,Right,31,"6' 2""",190,MIN,Minnesota Twins,142,American League,American League Central,Active
+621043,Carlos Correa,SS,Shortstop,4,Right,Right,30,"6' 3""",220,MIN,Minnesota Twins,142,American League,American League Central,Active
+663978,Chris Paddack,P,Pitcher,20,Right,Right,29,"6' 5""",217,MIN,Minnesota Twins,142,American League,American League Central,Active
+543877,Christian Vázquez,C,Catcher,8,Right,Right,34,"5' 8""",205,MIN,Minnesota Twins,142,American League,American League Central,Active
+663485,Cole Sands,P,Pitcher,44,Right,Right,27,"6' 3""",215,MIN,Minnesota Twins,142,American League,American League Central,Active
+680577,DaShawn Keirsey Jr.,RF,Outfielder,21,Left,Left,27,"6' 0""",195,MIN,Minnesota Twins,142,American League,American League Central,Active
+543056,Danny Coulombe,P,Pitcher,54,Left,Left,35,"5' 10""",190,MIN,Minnesota Twins,142,American League,American League Central,Active
+666397,Edouard Julien,2B,Second Base,47,Left,Right,25,"6' 0""",195,MIN,Minnesota Twins,142,American League,American League Central,Active
+643377,Griffin Jax,P,Pitcher,22,Right,Right,30,"6' 2""",195,MIN,Minnesota Twins,142,American League,American League Central,Active
+664056,Harrison Bader,LF,Outfielder,12,Right,Right,30,"5' 11""",210,MIN,Minnesota Twins,142,American League,American League Central,Active
+661395,Jhoan Duran,P,Pitcher,59,Right,Right,27,"6' 5""",230,MIN,Minnesota Twins,142,American League,American League Central,Active
+657746,Joe Ryan,P,Pitcher,41,Right,Right,28,"6' 2""",205,MIN,Minnesota Twins,142,American League,American League Central,Active
+681146,Jonah Bride,1B,First Base,31,Right,Right,29,"5' 11""",200,MIN,Minnesota Twins,142,American League,American League Central,Active
+660896,Jorge Alcala,P,Pitcher,66,Right,Right,29,"6' 3""",205,MIN,Minnesota Twins,142,American League,American League Central,Active
+623437,Justin Topa,P,Pitcher,48,Right,Right,34,"6' 4""",200,MIN,Minnesota Twins,142,American League,American League Central,Active
+665019,Kody Clemens,2B,Second Base,18,Left,Right,28,"6' 0""",200,MIN,Minnesota Twins,142,American League,American League Central,Active
+686973,Louis Varland,P,Pitcher,37,Left,Right,27,"6' 1""",205,MIN,Minnesota Twins,142,American League,American League Central,Active
+681508,Mickey Gasper,2B,Second Base,11,Switch,Right,29,"5' 10""",205,MIN,Minnesota Twins,142,American League,American League Central,Active
+641154,Pablo López,P,Pitcher,49,Left,Right,29,"6' 4""",225,MIN,Minnesota Twins,142,American League,American League Central,Active
+680777,Ryan Jeffers,C,Catcher,27,Right,Right,27,"6' 3""",235,MIN,Minnesota Twins,142,American League,American League Central,Active
+680573,Simeon Woods Richardson,P,Pitcher,24,Right,Right,24,"6' 3""",210,MIN,Minnesota Twins,142,American League,American League Central,Active
+663616,Trevor Larnach,LF,Outfielder,9,Left,Right,28,"6' 3""",223,MIN,Minnesota Twins,142,American League,American League Central,Active
+664034,Ty France,1B,First Base,13,Right,Right,30,"5' 11""",215,MIN,Minnesota Twins,142,American League,American League Central,Active
+605400,Aaron Nola,P,Pitcher,27,Right,Right,31,"6' 2""",200,PHI,Philadelphia Phillies,143,National League,National League East,Active
+664761,Alec Bohm,3B,Third Base,28,Right,Right,28,"6' 5""",218,PHI,Philadelphia Phillies,143,National League,National League East,Active
+547180,Bryce Harper,1B,First Base,3,Left,Right,32,"6' 2""",210,PHI,Philadelphia Phillies,143,National League,National League East,Active
+681082,Bryson Stott,2B,Second Base,5,Left,Right,27,"6' 1""",200,PHI,Philadelphia Phillies,143,National League,National League East,Active
+670276,Cal Stevenson,CF,Outfielder,47,Left,Left,28,"5' 9""",175,PHI,Philadelphia Phillies,143,National League,National League East,Active
+672578,Carlos Hernández,P,Pitcher,35,Right,Right,28,"6' 4""",255,PHI,Philadelphia Phillies,143,National League,National League East,Active
+650911,Cristopher Sánchez,P,Pitcher,61,Left,Left,28,"6' 6""",200,PHI,Philadelphia Phillies,143,National League,National League East,Active
+624641,Edmundo Sosa,SS,Shortstop,33,Right,Right,29,"6' 0""",210,PHI,Philadelphia Phillies,143,National League,National League East,Active
+592663,J.T. Realmuto,C,Catcher,10,Right,Right,34,"6' 0""",212,PHI,Philadelphia Phillies,143,National League,National League East,Active
+666200,Jesús Luzardo,P,Pitcher,44,Left,Left,27,"6' 0""",218,PHI,Philadelphia Phillies,143,National League,National League East,Active
+605452,Joe Ross,P,Pitcher,41,Right,Right,31,"6' 4""",243,PHI,Philadelphia Phillies,143,National League,National League East,Active
+679032,Johan Rojas,CF,Outfielder,23,Right,Right,24,"5' 11""",165,PHI,Philadelphia Phillies,143,National League,National League East,Active
+605447,Jordan Romano,P,Pitcher,68,Right,Right,32,"6' 5""",210,PHI,Philadelphia Phillies,143,National League,National League East,Active
+621237,José Alvarado,P,Pitcher,46,Left,Left,29,"6' 2""",245,PHI,Philadelphia Phillies,143,National League,National League East,Active
+614179,José Ruiz,P,Pitcher,66,Right,Right,30,"6' 1""",245,PHI,Philadelphia Phillies,143,National League,National League East,Active
+656941,Kyle Schwarber,LF,Outfielder,12,Left,Right,32,"5' 11""",229,PHI,Philadelphia Phillies,143,National League,National League East,Active
+621381,Matt Strahm,P,Pitcher,25,Right,Left,33,"6' 2""",190,PHI,Philadelphia Phillies,143,National League,National League East,Active
+596146,Max Kepler,LF,Outfielder,17,Left,Left,32,"6' 4""",225,PHI,Philadelphia Phillies,143,National League,National League East,Active
+592206,Nick Castellanos,RF,Outfielder,8,Right,Right,33,"6' 3""",203,PHI,Philadelphia Phillies,143,National League,National League East,Active
+689147,Orion Kerkering,P,Pitcher,50,Right,Right,24,"6' 2""",204,PHI,Philadelphia Phillies,143,National League,National League East,Active
+665561,Rafael Marchán,C,Catcher,13,Switch,Right,26,"5' 9""",170,PHI,Philadelphia Phillies,143,National League,National League East,Active
+592836,Taijuan Walker,P,Pitcher,99,Right,Right,32,"6' 4""",235,PHI,Philadelphia Phillies,143,National League,National League East,Active
+621383,Tanner Banks,P,Pitcher,58,Right,Left,33,"6' 1""",205,PHI,Philadelphia Phillies,143,National League,National League East,Active
+607208,Trea Turner,SS,Shortstop,7,Right,Right,31,"6' 1""",185,PHI,Philadelphia Phillies,143,National League,National League East,Active
+642215,Weston Wilson,LF,Outfielder,37,Right,Right,30,"6' 3""",215,PHI,Philadelphia Phillies,143,National League,National League East,Active
+554430,Zack Wheeler,P,Pitcher,45,Left,Right,34,"6' 4""",195,PHI,Philadelphia Phillies,143,National League,National League East,Active
+607481,Aaron Bummer,P,Pitcher,49,Left,Left,31,"6' 3""",215,ATL,Atlanta Braves,144,National League,National League East,Active
+657077,Alex Verdugo,LF,Outfielder,8,Left,Left,28,"6' 0""",209,ATL,Atlanta Braves,144,National League,National League East,Active
+663586,Austin Riley,3B,Third Base,27,Right,Right,28,"6' 2""",225,ATL,Atlanta Braves,144,National League,National League East,Active
+693821,Bryce Elder,P,Pitcher,55,Right,Right,25,"6' 2""",220,ATL,Atlanta Braves,144,National League,National League East,Active
+519242,Chris Sale,P,Pitcher,51,Left,Left,36,"6' 6""",180,ATL,Atlanta Braves,144,National League,National League East,Active
+669721,Davis Daniel,P,Pitcher,58,Right,Right,27,"6' 1""",190,ATL,Atlanta Braves,144,National League,National League East,Active
+678226,Daysbel Hernández,P,Pitcher,62,Right,Right,28,"5' 10""",220,ATL,Atlanta Braves,144,National League,National League East,Active
+686948,Drake Baldwin,C,Catcher,30,Left,Right,24,"6' 1""",225,ATL,Atlanta Braves,144,National League,National League East,Active
+669276,Dylan Lee,P,Pitcher,52,Left,Left,30,"6' 3""",214,ATL,Atlanta Braves,144,National League,National League East,Active
+642201,Eli White,LF,Outfielder,36,Right,Right,30,"6' 3""",195,ATL,Atlanta Braves,144,National League,National League East,Active
+660853,Enyel De Los Santos,P,Pitcher,61,Right,Right,29,"6' 3""",235,ATL,Atlanta Braves,144,National League,National League East,Active
+656550,Grant Holmes,P,Pitcher,66,Left,Right,29,"6' 0""",226,ATL,Atlanta Braves,144,National League,National League East,Active
+672284,Jarred Kelenic,RF,Outfielder,24,Left,Left,25,"5' 11""",206,ATL,Atlanta Braves,144,National League,National League East,Active
+542303,Marcell Ozuna,DH,Designated Hitter,20,Right,Right,34,"6' 1""",225,ATL,Atlanta Braves,144,National League,National League East,Active
+621566,Matt Olson,1B,First Base,28,Left,Right,31,"6' 4""",225,ATL,Atlanta Braves,144,National League,National League East,Active
+671739,Michael Harris II,CF,Outfielder,23,Left,Left,24,"6' 0""",195,ATL,Atlanta Braves,144,National League,National League East,Active
+669397,Nick Allen,SS,Shortstop,2,Right,Right,26,"5' 8""",166,ATL,Atlanta Braves,144,National League,National League East,Active
+606115,Orlando Arcia,SS,Shortstop,11,Right,Right,30,"5' 11""",187,ATL,Atlanta Braves,144,National League,National League East,Active
+645277,Ozzie Albies,2B,Second Base,1,Switch,Right,28,"5' 7""",165,ATL,Atlanta Braves,144,National League,National League East,Active
+572955,Pierce Johnson,P,Pitcher,38,Right,Right,33,"6' 2""",202,ATL,Atlanta Braves,144,National League,National League East,Active
+606160,Rafael Montero,P,Pitcher,48,Right,Right,34,"6' 0""",193,ATL,Atlanta Braves,144,National League,National League East,Active
+628452,Raisel Iglesias,P,Pitcher,26,Right,Right,35,"6' 2""",190,ATL,Atlanta Braves,144,National League,National League East,Active
+656240,Scott Blewett,P,Pitcher,63,Right,Right,29,"6' 6""",245,ATL,Atlanta Braves,144,National League,National League East,Active
+669221,Sean Murphy,C,Catcher,12,Right,Right,30,"6' 3""",228,ATL,Atlanta Braves,144,National League,National League East,Active
+680885,Spencer Schwellenbach,P,Pitcher,56,Right,Right,24,"6' 1""",200,ATL,Atlanta Braves,144,National League,National League East,Active
+656413,Stuart Fairchild,RF,Outfielder,17,Right,Right,29,"5' 11""",205,ATL,Atlanta Braves,144,National League,National League East,Active
+643217,Andrew Benintendi,LF,Outfielder,23,Left,Left,30,"5' 10""",185,CWS,Chicago White Sox,145,American League,American League Central,Active
+683734,Andrew Vaughn,1B,First Base,25,Right,Right,27,"5' 10""",215,CWS,Chicago White Sox,145,American League,American League Central,Active
+666915,Bobby Dalbec,1B,First Base,31,Right,Right,29,"6' 3""",225,CWS,Chicago White Sox,145,American League,American League Central,Active
+685126,Brandon Eisert,P,Pitcher,53,Left,Left,27,"6' 2""",210,CWS,Chicago White Sox,145,American League,American League Central,Active
+681460,Brooks Baldwin,LF,Outfielder,27,Switch,Right,24,"6' 1""",195,CWS,Chicago White Sox,145,American League,American League Central,Active
+669060,Bryse Wilson,P,Pitcher,46,Right,Right,27,"6' 2""",255,CWS,Chicago White Sox,145,American League,American League Central,Active
+592155,Cam Booser,P,Pitcher,71,Left,Left,32,"6' 3""",230,CWS,Chicago White Sox,145,American League,American League Central,Active
+663436,Davis Martin,P,Pitcher,65,Left,Right,28,"6' 2""",215,CWS,Chicago White Sox,145,American League,American League Central,Active
+700337,Edgar Quero,C,Catcher,7,Switch,Right,22,"5' 10""",205,CWS,Chicago White Sox,145,American League,American League Central,Active
+669398,Gage Workman,3B,Third Base,41,Left,Right,25,"6' 4""",202,CWS,Chicago White Sox,145,American League,American League Central,Active
+676070,Jacob Amaya,SS,Shortstop,8,Right,Right,26,"5' 10""",180,CWS,Chicago White Sox,145,American League,American League Central,Active
+694363,Jared Shuster,P,Pitcher,51,Left,Left,26,"6' 3""",220,CWS,Chicago White Sox,145,American League,American League Central,Active
+686563,Jonathan Cannon,P,Pitcher,48,Right,Right,24,"6' 6""",225,CWS,Chicago White Sox,145,American League,American League Central,Active
+673929,Jordan Leasure,P,Pitcher,49,Right,Right,26,"6' 3""",220,CWS,Chicago White Sox,145,American League,American League Central,Active
+641943,Joshua Palacios,RF,Outfielder,47,Left,Right,29,"6' 0""",210,CWS,Chicago White Sox,145,American League,American League Central,Active
+672820,Lenyn Sosa,2B,Second Base,50,Right,Right,25,"5' 11""",210,CWS,Chicago White Sox,145,American League,American League Central,Active
+673357,Luis Robert Jr.,CF,Outfielder,88,Right,Right,27,"6' 2""",225,CWS,Chicago White Sox,145,American League,American League Central,Active
+642136,Matt Thaiss,C,Catcher,29,Left,Right,29,"5' 11""",215,CWS,Chicago White Sox,145,American League,American League Central,Active
+572191,Michael A. Taylor,LF,Outfielder,21,Right,Right,34,"6' 4""",215,CWS,Chicago White Sox,145,American League,American League Central,Active
+678246,Miguel Vargas,3B,Third Base,20,Right,Right,25,"6' 2""",225,CWS,Chicago White Sox,145,American League,American League Central,Active
+678024,Mike Vasil,P,Pitcher,61,Left,Right,25,"6' 5""",225,CWS,Chicago White Sox,145,American League,American League Central,Active
+682171,Penn Murfee,P,Pitcher,63,Right,Right,30,"6' 2""",205,CWS,Chicago White Sox,145,American League,American League Central,Active
+680732,Sean Burke,P,Pitcher,59,Right,Right,25,"6' 6""",240,CWS,Chicago White Sox,145,American League,American League Central,Active
+681343,Shane Smith,P,Pitcher,64,Right,Right,25,"6' 3""",240,CWS,Chicago White Sox,145,American League,American League Central,Active
+621051,Steven Wilson,P,Pitcher,36,Right,Right,30,"6' 4""",220,CWS,Chicago White Sox,145,American League,American League Central,Active
+656457,Tyler Gilbert,P,Pitcher,40,Left,Left,31,"6' 3""",225,CWS,Chicago White Sox,145,American League,American League Central,Active
+682663,Agustín Ramírez,C,Catcher,50,Right,Right,23,"6' 1""",210,MIA,Miami Marlins,146,National League,National League East,Active
+669622,Anthony Bender,P,Pitcher,37,Right,Right,30,"6' 4""",205,MIA,Miami Marlins,146,National League,National League East,Active
+685107,Anthony Veneziano,P,Pitcher,59,Left,Left,27,"6' 5""",205,MIA,Miami Marlins,146,National League,National League East,Active
+615698,Cal Quantrill,P,Pitcher,47,Left,Right,30,"6' 3""",195,MIA,Miami Marlins,146,National League,National League East,Active
+676534,Calvin Faucher,P,Pitcher,53,Right,Right,29,"6' 1""",190,MIA,Miami Marlins,146,National League,National League East,Active
+681393,Connor Norby,3B,Third Base,1,Right,Right,24,"5' 10""",180,MIA,Miami Marlins,146,National League,National League East,Active
+667472,Dane Myers,CF,Outfielder,54,Right,Right,29,"6' 0""",205,MIA,Miami Marlins,146,National League,National League East,Active
+665795,Edward Cabrera,P,Pitcher,27,Right,Right,27,"6' 5""",217,MIA,Miami Marlins,146,National League,National League East,Active
+676572,Eric Wagaman,1B,First Base,33,Right,Right,27,"6' 4""",210,MIA,Miami Marlins,146,National League,National League East,Active
+666277,George Soriano,P,Pitcher,62,Right,Right,26,"6' 2""",210,MIA,Miami Marlins,146,National League,National League East,Active
+688363,Graham Pauley,3B,Third Base,21,Left,Right,24,"6' 1""",200,MIA,Miami Marlins,146,National League,National League East,Active
+691594,Javier Sanoja,LF,Outfielder,46,Right,Right,22,"5' 7""",150,MIA,Miami Marlins,146,National League,National League East,Active
+660821,Jesús Sánchez,CF,Outfielder,7,Left,Right,27,"6' 4""",222,MIA,Miami Marlins,146,National League,National League East,Active
+622786,Jesus Tinoco,P,Pitcher,38,Right,Right,29,"6' 4""",258,MIA,Miami Marlins,146,National League,National League East,Active
+669065,Kyle Stowers,RF,Outfielder,28,Left,Left,27,"6' 2""",215,MIA,Miami Marlins,146,National League,National League East,Active
+669199,Lake Bachar,P,Pitcher,84,Right,Right,29,"6' 2""",219,MIA,Miami Marlins,146,National League,National League East,Active
+689414,Liam Hicks,C,Catcher,34,Left,Right,25,"5' 9""",185,MIA,Miami Marlins,146,National League,National League East,Active
+678215,Luarbert Arias,P,Pitcher,76,Right,Right,24,"6' 2""",176,MIA,Miami Marlins,146,National League,National League East,Active
+670223,Matt Mervis,1B,First Base,36,Left,Right,27,"6' 2""",225,MIA,Miami Marlins,146,National League,National League East,Active
+676974,Max Meyer,P,Pitcher,23,Left,Right,26,"6' 0""",196,MIA,Miami Marlins,146,National League,National League East,Active
+672640,Otto Lopez,2B,Second Base,6,Right,Right,26,"5' 10""",185,MIA,Miami Marlins,146,National League,National League East,Active
+678692,Ronny Henriquez,P,Pitcher,32,Right,Right,24,"5' 10""",155,MIA,Miami Marlins,146,National League,National League East,Active
+682927,Ronny Simon,2B,Second Base,41,Switch,Right,25,"5' 8""",150,MIA,Miami Marlins,146,National League,National League East,Active
+645261,Sandy Alcantara,P,Pitcher,22,Right,Right,29,"6' 5""",200,MIA,Miami Marlins,146,National League,National League East,Active
+663969,Tyler Phillips,P,Pitcher,30,Right,Right,27,"6' 5""",225,MIA,Miami Marlins,146,National League,National League East,Active
+669364,Xavier Edwards,SS,Shortstop,9,Switch,Right,25,"5' 8""",175,MIA,Miami Marlins,146,National League,National League East,Active
+592450,Aaron Judge,RF,Outfielder,99,Right,Right,33,"6' 7""",282,NYY,New York Yankees,147,American League,American League East,Active
+683011,Anthony Volpe,SS,Shortstop,11,Right,Right,23,"5' 10""",180,NYY,New York Yankees,147,American League,American League East,Active
+669224,Austin Wells,C,Catcher,28,Left,Right,25,"6' 1""",220,NYY,New York Yankees,147,American League,American League East,Active
+700250,Ben Rice,1B,First Base,22,Left,Right,26,"6' 2""",215,NYY,New York Yankees,147,American League,American League East,Active
+471911,Carlos Carrasco,P,Pitcher,59,Right,Right,38,"6' 4""",224,NYY,New York Yankees,147,American League,American League East,Active
+607074,Carlos Rodón,P,Pitcher,55,Left,Left,32,"6' 2""",255,NYY,New York Yankees,147,American League,American League East,Active
+657376,Clarke Schmidt,P,Pitcher,36,Right,Right,29,"6' 1""",200,NYY,New York Yankees,147,American League,American League East,Active
+641355,Cody Bellinger,CF,Outfielder,35,Left,Left,29,"6' 3""",203,NYY,New York Yankees,147,American League,American League East,Active
+642207,Devin Williams,P,Pitcher,38,Right,Right,30,"6' 2""",193,NYY,New York Yankees,147,American League,American League East,Active
+518585,Fernando Cruz,P,Pitcher,63,Right,Right,35,"6' 2""",237,NYY,New York Yankees,147,American League,American League East,Active
+641656,Ian Hamilton,P,Pitcher,71,Right,Right,29,"6' 1""",200,NYY,New York Yankees,147,American League,American League East,Active
+641555,J.C. Escarra,C,Catcher,25,Left,Right,30,"6' 2""",205,NYY,New York Yankees,147,American League,American League East,Active
+691176,Jasson Domínguez,LF,Outfielder,24,Switch,Right,22,"5' 9""",190,NYY,New York Yankees,147,American League,American League East,Active
+665862,Jazz Chisholm Jr.,2B,Second Base,13,Left,Right,27,"5' 11""",184,NYY,New York Yankees,147,American League,American League East,Active
+596133,Luke Weaver,P,Pitcher,30,Right,Right,31,"6' 2""",183,NYY,New York Yankees,147,American League,American League East,Active
+643410,Mark Leiter Jr.,P,Pitcher,56,Right,Right,34,"6' 0""",210,NYY,New York Yankees,147,American League,American League East,Active
+608331,Max Fried,P,Pitcher,54,Left,Left,31,"6' 4""",190,NYY,New York Yankees,147,American League,American League East,Active
+672724,Oswald Peraza,3B,Third Base,18,Right,Right,24,"5' 11""",200,NYY,New York Yankees,147,American League,American League East,Active
+665828,Oswaldo Cabrera,3B,Third Base,95,Switch,Right,26,"6' 0""",200,NYY,New York Yankees,147,American League,American League East,Active
+622569,Pablo Reyes,3B,Third Base,19,Right,Right,31,"5' 8""",175,NYY,New York Yankees,147,American League,American League East,Active
+502671,Paul Goldschmidt,1B,First Base,48,Right,Right,37,"6' 2""",225,NYY,New York Yankees,147,American League,American League East,Active
+642232,Ryan Yarbrough,P,Pitcher,33,Right,Left,33,"6' 5""",215,NYY,New York Yankees,147,American League,American League East,Active
+657612,Tim Hill,P,Pitcher,41,Right,Left,35,"6' 4""",210,NYY,New York Yankees,147,American League,American League East,Active
+663757,Trent Grisham,CF,Outfielder,12,Left,Left,28,"5' 10""",224,NYY,New York Yankees,147,American League,American League East,Active
+554431,Tyler Matzek,P,Pitcher,68,Left,Left,34,"6' 3""",230,NYY,New York Yankees,147,American League,American League East,Active
+701542,Will Warren,P,Pitcher,98,Right,Right,25,"6' 2""",175,NYY,New York Yankees,147,American League,American League East,Active
+660787,Yerry De Los Santos,P,Pitcher,73,Right,Right,27,"6' 2""",210,NYY,New York Yankees,147,American League,American League East,Active
+682842,Abner Uribe,P,Pitcher,45,Right,Right,24,"6' 3""",210,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+668930,Brice Turang,2B,Second Base,2,Left,Right,25,"5' 11""",190,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+702332,Caleb Durbin,2B,Second Base,21,Right,Right,25,"5' 7""",183,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+694477,Chad Patrick,P,Pitcher,39,Right,Right,26,"6' 1""",217,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+592885,Christian Yelich,LF,Outfielder,22,Left,Right,33,"6' 3""",203,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+684974,Craig Yoho,P,Pitcher,48,Right,Right,25,"6' 2""",235,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+663662,Daz Cameron,LF,Outfielder,20,Right,Right,28,"6' 0""",185,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+606992,Eric Haase,C,Catcher,13,Right,Right,32,"5' 10""",204,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+642547,Freddy Peralta,P,Pitcher,51,Right,Right,28,"6' 0""",198,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+681982,Grant Anderson,P,Pitcher,56,Right,Right,27,"6' 0""",204,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+686555,Isaac Collins,LF,Outfielder,6,Switch,Right,27,"5' 8""",188,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+694192,Jackson Chourio,LF,Outfielder,11,Right,Right,21,"6' 0""",204,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+641343,Jake Bauers,1B,First Base,9,Left,Left,29,"6' 0""",203,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+657649,Jared Koenig,P,Pitcher,47,Right,Left,31,"6' 5""",248,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+606303,Joel Payamps,P,Pitcher,31,Right,Right,31,"6' 3""",214,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+687401,Joey Ortiz,SS,Shortstop,3,Right,Right,26,"5' 10""",183,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+500779,Jose Quintana,P,Pitcher,62,Right,Left,36,"6' 2""",224,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+683232,Nick Mears,P,Pitcher,25,Right,Right,28,"6' 3""",217,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+682990,Quinn Priester,P,Pitcher,46,Right,Right,24,"6' 3""",210,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+656555,Rhys Hoskins,1B,First Base,12,Right,Right,32,"6' 3""",241,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+686217,Sal Frelick,RF,Outfielder,10,Left,Right,25,"5' 8""",188,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+668964,Tobias Myers,P,Pitcher,36,Right,Right,26,"6' 1""",223,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+656730,Trevor Megill,P,Pitcher,29,Left,Right,31,"6' 8""",249,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+641302,Tyler Alexander,P,Pitcher,33,Right,Left,30,"6' 1""",214,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+681962,Vinny Capra,3B,Third Base,18,Right,Right,28,"5' 8""",188,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+661388,William Contreras,C,Catcher,24,Right,Right,27,"5' 10""",218,MIL,Milwaukee Brewers,158,National League,National League Central,Active
+656271,Brock Burke,P,Pitcher,46,Left,Left,28,"6' 4""",210,LAA,Los Angeles Angels,108,American League,American League West,Active
+680729,Garrett McDaniels,P,Pitcher,57,Left,Left,25,"6' 2""",180,LAA,Los Angeles Angels,108,American League,American League West,Active
+605204,J.D. Davis,3B,Third Base,22,Right,Right,32,"6' 1""",218,LAA,Los Angeles Angels,108,American League,American League West,Active
+686799,Jack Kochanowicz,P,Pitcher,41,Left,Right,24,"6' 7""",228,LAA,Los Angeles Angels,108,American League,American League West,Active
+671109,Jake Eder,P,Pitcher,39,Left,Left,26,"6' 4""",225,LAA,Los Angeles Angels,108,American League,American League West,Active
+666176,Jo Adell,CF,Outfielder,7,Right,Right,26,"6' 2""",215,LAA,Los Angeles Angels,108,American League,American League West,Active
+624585,Jorge Soler,RF,Outfielder,12,Right,Right,33,"6' 4""",235,LAA,Los Angeles Angels,108,American League,American League West,Active
+820862,Jose Fermin,P,Pitcher,68,Right,Right,23,"6' 3""",242,LAA,Los Angeles Angels,108,American League,American League West,Active
+667755,José Soriano,P,Pitcher,59,Right,Right,26,"6' 3""",220,LAA,Los Angeles Angels,108,American League,American League West,Active
+445276,Kenley Jansen,P,Pitcher,74,Switch,Right,37,"6' 5""",265,LAA,Los Angeles Angels,108,American League,American League West,Active
+621028,Kevin Newman,SS,Shortstop,10,Right,Right,31,"6' 1""",195,LAA,Los Angeles Angels,108,American League,American League West,Active
+543294,Kyle Hendricks,P,Pitcher,28,Right,Right,35,"6' 3""",190,LAA,Los Angeles Angels,108,American League,American League West,Active
+677347,Kyren Paris,2B,Second Base,19,Right,Right,23,"5' 11""",180,LAA,Los Angeles Angels,108,American League,American League West,Active
+681351,Logan O'Hoppe,C,Catcher,14,Right,Right,25,"6' 2""",185,LAA,Los Angeles Angels,108,American League,American League West,Active
+650859,Luis Rengifo,3B,Third Base,2,Switch,Right,28,"5' 10""",195,LAA,Los Angeles Angels,108,American League,American League West,Active
+545361,Mike Trout,RF,Outfielder,27,Right,Right,33,"6' 2""",235,LAA,Los Angeles Angels,108,American League,American League West,Active
+694384,Nolan Schanuel,1B,First Base,18,Left,Right,23,"6' 2""",220,LAA,Los Angeles Angels,108,American League,American League West,Active
+672282,Reid Detmers,P,Pitcher,48,Left,Left,25,"6' 2""",210,LAA,Los Angeles Angels,108,American League,American League West,Active
+696270,Ryan Johnson,P,Pitcher,32,Switch,Right,22,"6' 6""",215,LAA,Los Angeles Angels,108,American League,American League West,Active
+666171,Ryan Zeferjahn,P,Pitcher,56,Right,Right,27,"6' 5""",209,LAA,Los Angeles Angels,108,American League,American League West,Active
+621493,Taylor Ward,LF,Outfielder,3,Right,Right,31,"6' 0""",200,LAA,Los Angeles Angels,108,American League,American League West,Active
+641313,Tim Anderson,SS,Shortstop,77,Right,Right,31,"6' 0""",185,LAA,Los Angeles Angels,108,American League,American League West,Active
+518595,Travis d'Arnaud,C,Catcher,25,Right,Right,36,"6' 0""",210,LAA,Los Angeles Angels,108,American League,American League West,Active
+542881,Tyler Anderson,P,Pitcher,31,Left,Left,35,"6' 2""",220,LAA,Los Angeles Angels,108,American League,American League West,Active
+579328,Yusei Kikuchi,P,Pitcher,16,Left,Left,33,"6' 0""",210,LAA,Los Angeles Angels,108,American League,American League West,Active
+687263,Zach Neto,SS,Shortstop,9,Right,Right,24,"5' 11""",185,LAA,Los Angeles Angels,108,American League,American League West,Active
+677950,Alek Thomas,CF,Outfielder,5,Left,Left,24,"5' 9""",175,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+694297,Brandon Pfaadt,P,Pitcher,32,Right,Right,26,"6' 4""",220,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+669203,Corbin Burnes,P,Pitcher,39,Right,Right,30,"6' 3""",245,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+682998,Corbin Carroll,RF,Outfielder,7,Left,Left,24,"5' 10""",165,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+686753,Drey Jameson,P,Pitcher,99,Right,Right,27,"6' 0""",165,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+593958,Eduardo Rodriguez,P,Pitcher,57,Left,Left,32,"6' 2""",231,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+553993,Eugenio Suárez,3B,Third Base,28,Right,Right,33,"5' 11""",213,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+672515,Gabriel Moreno,C,Catcher,14,Right,Right,25,"5' 9""",195,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+641658,Garrett Hampson,2B,Second Base,8,Right,Right,30,"5' 10""",196,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+672695,Geraldo Perdomo,SS,Shortstop,2,Switch,Right,25,"6' 2""",203,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+656222,Jalen Beeks,P,Pitcher,68,Left,Left,31,"5' 11""",215,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+678489,Jorge Barrosa,LF,Outfielder,1,Switch,Left,24,"5' 6""",165,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+645444,Jose Herrera,C,Catcher,11,Switch,Right,28,"5' 9""",217,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+647304,Josh Naylor,1B,First Base,22,Left,Left,27,"5' 10""",235,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+666661,Juan Morillo,P,Pitcher,67,Right,Right,26,"6' 1""",150,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+679885,Justin Martinez,P,Pitcher,63,Right,Right,23,"6' 3""",180,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+666971,Lourdes Gurriel Jr.,LF,Outfielder,12,Right,Right,31,"6' 3""",215,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+518876,Merrill Kelly,P,Pitcher,29,Right,Right,36,"6' 2""",202,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+656976,Pavin Smith,1B,First Base,26,Left,Left,29,"6' 2""",208,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+545341,Randal Grichuk,RF,Outfielder,15,Right,Right,33,"6' 0""",216,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+657044,Ryan Thompson,P,Pitcher,81,Right,Right,32,"6' 5""",210,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+669194,Ryne Nelson,P,Pitcher,19,Right,Right,27,"6' 3""",184,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+543518,Scott McGough,P,Pitcher,,Right,Right,35,"5' 11""",190,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+571946,Shelby Miller,P,Pitcher,18,Right,Right,34,"6' 3""",225,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+694374,Tim Tawa,2B,Second Base,13,Right,Right,26,"5' 11""",196,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+668678,Zac Gallen,P,Pitcher,23,Right,Right,29,"6' 2""",189,AZ,Arizona Diamondbacks,109,National League,National League West,Active
+668939,Adley Rutschman,C,Catcher,35,Switch,Right,27,"6' 2""",230,BAL,Baltimore Orioles,110,American League,American League East,Active
+641329,Bryan Baker,P,Pitcher,43,Right,Right,30,"6' 6""",235,BAL,Baltimore Orioles,110,American League,American League East,Active
+700249,Cade Povich,P,Pitcher,37,Left,Left,25,"6' 3""",185,BAL,Baltimore Orioles,110,American League,American League East,Active
+656775,Cedric Mullins,CF,Outfielder,31,Left,Left,30,"5' 8""",175,BAL,Baltimore Orioles,110,American League,American League East,Active
+450203,Charlie Morton,P,Pitcher,50,Right,Right,41,"6' 5""",215,BAL,Baltimore Orioles,110,American League,American League East,Active
+672335,Cionel Pérez,P,Pitcher,58,Right,Left,29,"6' 0""",175,BAL,Baltimore Orioles,110,American League,American League East,Active
+665152,Dean Kremer,P,Pitcher,64,Right,Right,29,"6' 2""",210,BAL,Baltimore Orioles,110,American League,American League East,Active
+666185,Dylan Carlson,LF,Outfielder,15,Switch,Left,26,"6' 2""",200,BAL,Baltimore Orioles,110,American League,American League East,Active
+642585,Félix Bautista,P,Pitcher,74,Right,Right,29,"6' 8""",285,BAL,Baltimore Orioles,110,American League,American League East,Active
+596142,Gary Sánchez,C,Catcher,99,Right,Right,32,"6' 2""",245,BAL,Baltimore Orioles,110,American League,American League East,Active
+664991,Grant Wolfram,P,Pitcher,86,Left,Left,28,"6' 7""",240,BAL,Baltimore Orioles,110,American League,American League East,Active
+642397,Gregory Soto,P,Pitcher,65,Left,Left,30,"6' 1""",234,BAL,Baltimore Orioles,110,American League,American League East,Active
+683002,Gunnar Henderson,SS,Shortstop,2,Left,Right,23,"6' 3""",220,BAL,Baltimore Orioles,110,American League,American League East,Active
+677008,Heston Kjerstad,LF,Outfielder,13,Left,Right,26,"6' 2""",205,BAL,Baltimore Orioles,110,American League,American League East,Active
+702616,Jackson Holliday,2B,Second Base,7,Left,Right,21,"6' 0""",185,BAL,Baltimore Orioles,110,American League,American League East,Active
+676059,Jordan Westburg,2B,Second Base,11,Right,Right,26,"6' 1""",210,BAL,Baltimore Orioles,110,American League,American League East,Active
+622761,Jorge Mateo,SS,Shortstop,3,Right,Right,29,"6' 1""",200,BAL,Baltimore Orioles,110,American League,American League East,Active
+669211,Keegan Akin,P,Pitcher,45,Left,Left,30,"6' 0""",240,BAL,Baltimore Orioles,110,American League,American League East,Active
+621199,Matt Bowman,P,Pitcher,51,Right,Right,33,"6' 0""",185,BAL,Baltimore Orioles,110,American League,American League East,Active
+657656,Ramón Laureano,LF,Outfielder,12,Right,Right,30,"5' 10""",203,BAL,Baltimore Orioles,110,American League,American League East,Active
+602104,Ramón Urías,3B,Third Base,29,Right,Right,30,"5' 9""",185,BAL,Baltimore Orioles,110,American League,American League East,Active
+663624,Ryan Mountcastle,1B,First Base,6,Right,Right,28,"6' 3""",220,BAL,Baltimore Orioles,110,American League,American League East,Active
+656811,Ryan O'Hearn,1B,First Base,32,Left,Left,31,"6' 2""",220,BAL,Baltimore Orioles,110,American League,American League East,Active
+622554,Seranthony Domínguez,P,Pitcher,56,Right,Right,30,"6' 1""",225,BAL,Baltimore Orioles,110,American League,American League East,Active
+608372,Tomoyuki Sugano,P,Pitcher,19,Right,Right,35,"6' 1""",198,BAL,Baltimore Orioles,110,American League,American League East,Active
+666974,Yennier Cano,P,Pitcher,78,Right,Right,31,"6' 4""",245,BAL,Baltimore Orioles,110,American League,American League East,Active
+608324,Alex Bregman,3B,Third Base,2,Right,Right,31,"5' 11""",190,BOS,Boston Red Sox,111,American League,American League East,Active
+547973,Aroldis Chapman,P,Pitcher,44,Left,Left,37,"6' 4""",235,BOS,Boston Red Sox,111,American League,American League East,Active
+666165,Blake Sabol,C,Catcher,18,Left,Right,27,"6' 4""",225,BOS,Boston Red Sox,111,American League,American League East,Active
+678394,Brayan Bello,P,Pitcher,66,Right,Right,25,"6' 1""",195,BOS,Boston Red Sox,111,American League,American League East,Active
+657514,Brennan Bernardino,P,Pitcher,83,Left,Left,33,"6' 4""",180,BOS,Boston Red Sox,111,American League,American League East,Active
+665966,Carlos Narváez,C,Catcher,75,Right,Right,26,"6' 0""",190,BOS,Boston Red Sox,111,American League,American League East,Active
+678882,Ceddanne Rafaela,CF,Outfielder,3,Right,Right,24,"5' 10""",165,BOS,Boston Red Sox,111,American League,American League East,Active
+666152,David Hamilton,2B,Second Base,17,Left,Right,27,"5' 11""",188,BOS,Boston Red Sox,111,American League,American League East,Active
+676979,Garrett Crochet,P,Pitcher,35,Left,Left,25,"6' 6""",245,BOS,Boston Red Sox,111,American League,American League East,Active
+676477,Garrett Whitlock,P,Pitcher,22,Right,Right,28,"6' 5""",222,BOS,Boston Red Sox,111,American League,American League East,Active
+669711,Greg Weissert,P,Pitcher,57,Right,Right,30,"6' 2""",235,BOS,Boston Red Sox,111,American League,American League East,Active
+680776,Jarren Duran,LF,Outfielder,16,Left,Right,28,"6' 1""",205,BOS,Boston Red Sox,111,American League,American League East,Active
+686580,Justin Slaten,P,Pitcher,63,Right,Right,27,"6' 4""",222,BOS,Boston Red Sox,111,American League,American League East,Active
+458677,Justin Wilson,P,Pitcher,32,Left,Left,37,"6' 2""",205,BOS,Boston Red Sox,111,American League,American League East,Active
+692225,Kristian Campbell,2B,Second Base,28,Right,Right,22,"6' 3""",191,BOS,Boston Red Sox,111,American League,American League East,Active
+521230,Liam Hendriks,P,Pitcher,31,Right,Right,36,"6' 0""",235,BOS,Boston Red Sox,111,American League,American League East,Active
+692285,Luis Guerrero,P,Pitcher,99,Right,Right,24,"6' 0""",215,BOS,Boston Red Sox,111,American League,American League East,Active
+646240,Rafael Devers,3B,Third Base,11,Left,Right,28,"6' 0""",235,BOS,Boston Red Sox,111,American League,American League East,Active
+608701,Rob Refsnyder,RF,Outfielder,30,Right,Right,34,"6' 0""",215,BOS,Boston Red Sox,111,American League,American League East,Active
+663853,Romy Gonzalez,1B,First Base,23,Right,Right,28,"6' 0""",215,BOS,Boston Red Sox,111,American League,American League East,Active
+656794,Sean Newcomb,P,Pitcher,19,Left,Left,31,"6' 5""",255,BOS,Boston Red Sox,111,American League,American League East,Active
+656557,Tanner Houck,P,Pitcher,89,Right,Right,28,"6' 5""",226,BOS,Boston Red Sox,111,American League,American League East,Active
+596115,Trevor Story,SS,Shortstop,10,Right,Right,32,"6' 1""",209,BOS,Boston Red Sox,111,American League,American League East,Active
+671213,Triston Casas,1B,First Base,36,Left,Right,25,"6' 4""",244,BOS,Boston Red Sox,111,American League,American League East,Active
+621111,Walker Buehler,P,Pitcher,0,Right,Right,30,"6' 2""",185,BOS,Boston Red Sox,111,American League,American League East,Active
+677800,Wilyer Abreu,RF,Outfielder,52,Left,Left,25,"5' 10""",215,BOS,Boston Red Sox,111,American League,American League East,Active
+676962,Ben Brown,P,Pitcher,32,Right,Right,25,"6' 6""",210,CHC,Chicago Cubs,112,National League,National League Central,Active
+641745,Brad Keller,P,Pitcher,40,Right,Right,29,"6' 5""",255,CHC,Chicago Cubs,112,National League,National League Central,Active
+573204,Caleb Thielbar,P,Pitcher,24,Right,Left,38,"6' 0""",205,CHC,Chicago Cubs,112,National League,National League Central,Active
+608348,Carson Kelly,C,Catcher,15,Right,Right,30,"6' 1""",212,CHC,Chicago Cubs,112,National League,National League Central,Active
+607067,Colin Rea,P,Pitcher,53,Right,Right,34,"6' 5""",220,CHC,Chicago Cubs,112,National League,National League Central,Active
+694037,Daniel Palencia,P,Pitcher,48,Right,Right,25,"5' 11""",160,CHC,Chicago Cubs,112,National League,National League Central,Active
+621020,Dansby Swanson,SS,Shortstop,7,Right,Right,31,"6' 0""",190,CHC,Chicago Cubs,112,National League,National League Central,Active
+519141,Drew Pomeranz,P,Pitcher,45,Right,Left,36,"6' 5""",246,CHC,Chicago Cubs,112,National League,National League Central,Active
+681799,Ethan Roberts,P,Pitcher,39,Right,Right,27,"5' 10""",180,CHC,Chicago Cubs,112,National League,National League Central,Active
+664023,Ian Happ,LF,Outfielder,8,Switch,Right,30,"5' 11""",205,CHC,Chicago Cubs,112,National League,National League Central,Active
+592791,Jameson Taillon,P,Pitcher,50,Right,Right,33,"6' 5""",230,CHC,Chicago Cubs,112,National League,National League Central,Active
+542932,Jon Berti,2B,Second Base,5,Right,Right,35,"5' 10""",190,CHC,Chicago Cubs,112,National League,National League Central,Active
+657240,Julian Merryweather,P,Pitcher,66,Right,Right,33,"6' 4""",215,CHC,Chicago Cubs,112,National League,National League Central,Active
+457759,Justin Turner,1B,First Base,3,Right,Right,40,"5' 11""",208,CHC,Chicago Cubs,112,National League,National League Central,Active
+663656,Kyle Tucker,RF,Outfielder,30,Left,Right,28,"6' 4""",212,CHC,Chicago Cubs,112,National League,National League Central,Active
+571510,Matthew Boyd,P,Pitcher,16,Left,Left,34,"6' 3""",223,CHC,Chicago Cubs,112,National League,National League Central,Active
+683737,Michael Busch,1B,First Base,29,Left,Right,27,"6' 0""",210,CHC,Chicago Cubs,112,National League,National League Central,Active
+665804,Miguel Amaya,C,Catcher,9,Right,Right,26,"6' 1""",230,CHC,Chicago Cubs,112,National League,National League Central,Active
+670032,Nicky Lopez,SS,Shortstop,12,Left,Right,30,"5' 10""",185,CHC,Chicago Cubs,112,National League,National League Central,Active
+663538,Nico Hoerner,2B,Second Base,2,Right,Right,27,"5' 11""",200,CHC,Chicago Cubs,112,National League,National League Central,Active
+691718,Pete Crow-Armstrong,CF,Outfielder,4,Left,Left,23,"6' 0""",184,CHC,Chicago Cubs,112,National League,National League Central,Active
+687863,Porter Hodge,P,Pitcher,37,Right,Right,24,"6' 4""",230,CHC,Chicago Cubs,112,National League,National League Central,Active
+519151,Ryan Pressly,P,Pitcher,55,Right,Right,36,"6' 2""",207,CHC,Chicago Cubs,112,National League,National League Central,Active
+673548,Seiya Suzuki,RF,Outfielder,27,Right,Right,30,"6' 0""",182,CHC,Chicago Cubs,112,National League,National League Central,Active
+684007,Shota Imanaga,P,Pitcher,18,Left,Left,31,"5' 10""",175,CHC,Chicago Cubs,112,National League,National League Central,Active
+660644,Vidal Bruján,SS,Shortstop,17,Switch,Right,27,"5' 9""",180,CHC,Chicago Cubs,112,National League,National League Central,Active
+664747,Alexis Díaz,P,Pitcher,43,Right,Right,28,"6' 2""",224,CIN,Cincinnati Reds,113,National League,National League Central,Active
+671096,Andrew Abbott,P,Pitcher,41,Left,Left,25,"6' 0""",192,CIN,Cincinnati Reds,113,National League,National League Central,Active
+669720,Austin Hays,LF,Outfielder,12,Right,Right,29,"5' 11""",200,CIN,Cincinnati Reds,113,National League,National League Central,Active
+642851,Austin Wynns,C,Catcher,38,Right,Right,34,"6' 1""",190,CIN,Cincinnati Reds,113,National League,National League Central,Active
+694362,Blake Dunn,LF,Outfielder,59,Right,Right,26,"5' 10""",210,CIN,Cincinnati Reds,113,National League,National League Central,Active
+663903,Brady Singer,P,Pitcher,51,Right,Right,28,"6' 5""",215,CIN,Cincinnati Reds,113,National League,National League Central,Active
+608718,Brent Suter,P,Pitcher,31,Left,Left,35,"6' 4""",213,CIN,Cincinnati Reds,113,National League,National League Central,Active
+682829,Elly De La Cruz,SS,Shortstop,44,Switch,Right,23,"6' 5""",200,CIN,Cincinnati Reds,113,National League,National League Central,Active
+641941,Emilio Pagán,P,Pitcher,15,Left,Right,33,"6' 2""",208,CIN,Cincinnati Reds,113,National League,National League Central,Active
+666158,Gavin Lux,LF,Outfielder,2,Left,Right,27,"5' 11""",190,CIN,Cincinnati Reds,113,National League,National League Central,Active
+668933,Graham Ashcraft,P,Pitcher,23,Left,Right,27,"6' 2""",248,CIN,Cincinnati Reds,113,National League,National League Central,Active
+668881,Hunter Greene,P,Pitcher,21,Right,Right,25,"6' 5""",242,CIN,Cincinnati Reds,113,National League,National League Central,Active
+641584,Jake Fraley,RF,Outfielder,27,Left,Left,29,"5' 11""",206,CIN,Cincinnati Reds,113,National League,National League Central,Active
+600869,Jeimer Candelario,3B,Third Base,3,Switch,Right,31,"6' 0""",222,CIN,Cincinnati Reds,113,National League,National League Central,Active
+624431,Jose Trevino,C,Catcher,35,Right,Right,32,"5' 9""",215,CIN,Cincinnati Reds,113,National League,National League Central,Active
+680689,Lyon Richardson,P,Pitcher,72,Switch,Right,25,"6' 2""",207,CIN,Cincinnati Reds,113,National League,National League Central,Active
+680574,Matt McLain,2B,Second Base,9,Right,Right,25,"5' 9""",180,CIN,Cincinnati Reds,113,National League,National League Central,Active
+666157,Nick Lodolo,P,Pitcher,40,Left,Left,27,"6' 6""",216,CIN,Cincinnati Reds,113,National League,National League Central,Active
+607259,Nick Martinez,P,Pitcher,28,Left,Right,34,"6' 1""",200,CIN,Cincinnati Reds,113,National League,National League Central,Active
+682622,Noelvi Marte,3B,Third Base,16,Right,Right,23,"6' 2""",216,CIN,Cincinnati Reds,113,National League,National League Central,Active
+669289,Santiago Espinal,2B,Second Base,4,Right,Right,30,"5' 10""",185,CIN,Cincinnati Reds,113,National League,National League Central,Active
+605130,Scott Barlow,P,Pitcher,58,Right,Right,32,"6' 3""",210,CIN,Cincinnati Reds,113,National League,National League Central,Active
+668715,Spencer Steer,LF,Outfielder,7,Right,Right,27,"5' 9""",185,CIN,Cincinnati Reds,113,National League,National League Central,Active
+670770,TJ Friedl,CF,Outfielder,29,Left,Left,29,"5' 8""",180,CIN,Cincinnati Reds,113,National League,National League Central,Active
+573124,Taylor Rogers,P,Pitcher,55,Left,Left,34,"6' 3""",190,CIN,Cincinnati Reds,113,National League,National League Central,Active
+663574,Tony Santillan,P,Pitcher,64,Right,Right,28,"6' 3""",285,CIN,Cincinnati Reds,113,National League,National League Central,Active
+682657,Angel Martínez,CF,Outfielder,1,Switch,Right,23,"5' 11""",200,CLE,Cleveland Guardians,114,American League,American League Central,Active
+595978,Austin Hedges,C,Catcher,27,Right,Right,32,"6' 0""",220,CLE,Cleveland Guardians,114,American League,American League Central,Active
+594902,Ben Lively,P,Pitcher,39,Right,Right,33,"6' 4""",235,CLE,Cleveland Guardians,114,American League,American League Central,Active
+666310,Bo Naylor,C,Catcher,23,Left,Right,25,"6' 0""",205,CLE,Cleveland Guardians,114,American League,American League Central,Active
+677587,Brayan Rocchio,SS,Shortstop,4,Switch,Right,24,"5' 9""",170,CLE,Cleveland Guardians,114,American League,American League Central,Active
+671922,Cade Smith,P,Pitcher,36,Right,Right,25,"6' 5""",230,CLE,Cleveland Guardians,114,American League,American League Central,Active
+467793,Carlos Santana,1B,First Base,41,Switch,Right,39,"5' 10""",210,CLE,Cleveland Guardians,114,American League,American League Central,Active
+682177,Daniel Schneemann,2B,Second Base,10,Left,Right,28,"5' 11""",185,CLE,Cleveland Guardians,114,American League,American League Central,Active
+661403,Emmanuel Clase,P,Pitcher,48,Right,Right,27,"6' 2""",206,CLE,Cleveland Guardians,114,American League,American League Central,Active
+672356,Gabriel Arias,2B,Second Base,13,Right,Right,25,"6' 1""",217,CLE,Cleveland Guardians,114,American League,American League Central,Active
+668909,Gavin Williams,P,Pitcher,32,Left,Right,25,"6' 6""",250,CLE,Cleveland Guardians,114,American League,American League Central,Active
+683769,Hunter Gaddis,P,Pitcher,33,Right,Right,27,"6' 6""",260,CLE,Cleveland Guardians,114,American League,American League Central,Active
+596001,Jakob Junis,P,Pitcher,16,Right,Right,32,"6' 3""",238,CLE,Cleveland Guardians,114,American League,American League Central,Active
+678877,Jhonkensy Noel,RF,Outfielder,43,Right,Right,23,"6' 3""",250,CLE,Cleveland Guardians,114,American League,American League Central,Active
+676282,Joey Cantillo,P,Pitcher,54,Left,Left,25,"6' 4""",225,CLE,Cleveland Guardians,114,American League,American League Central,Active
+608070,José Ramírez,3B,Third Base,11,Switch,Right,32,"5' 8""",190,CLE,Cleveland Guardians,114,American League,American League Central,Active
+663465,Kolby Allard,P,Pitcher,49,Left,Left,27,"6' 1""",195,CLE,Cleveland Guardians,114,American League,American League Central,Active
+700932,Kyle Manzardo,1B,First Base,9,Left,Right,24,"6' 0""",205,CLE,Cleveland Guardians,114,American League,American League Central,Active
+671106,Logan Allen,P,Pitcher,26,Right,Left,26,"6' 0""",190,CLE,Cleveland Guardians,114,American League,American League Central,Active
+682847,Luis L. Ortiz,P,Pitcher,45,Right,Right,26,"6' 2""",235,CLE,Cleveland Guardians,114,American League,American League Central,Active
+666134,Nolan Jones,RF,Outfielder,22,Left,Right,26,"6' 5""",195,CLE,Cleveland Guardians,114,American League,American League Central,Active
+623149,Paul Sewald,P,Pitcher,34,Right,Right,34,"6' 3""",219,CLE,Cleveland Guardians,114,American League,American League Central,Active
+680757,Steven Kwan,LF,Outfielder,38,Left,Left,27,"5' 8""",170,CLE,Cleveland Guardians,114,American League,American League Central,Active
+676440,Tanner Bibee,P,Pitcher,28,Right,Right,26,"6' 2""",205,CLE,Cleveland Guardians,114,American League,American League Central,Active
+682120,Tim Herrin,P,Pitcher,29,Left,Left,28,"6' 6""",230,CLE,Cleveland Guardians,114,American League,American League Central,Active
+669717,Will Wilson,SS,Shortstop,7,Right,Right,26,"5' 10""",184,CLE,Cleveland Guardians,114,American League,American League Central,Active
+691182,Adael Amador,2B,Second Base,1,Switch,Right,22,"5' 11""",200,COL,Colorado Rockies,115,National League,National League West,Active
+676701,Alan Trejo,2B,Second Base,31,Right,Right,28,"6' 0""",205,COL,Colorado Rockies,115,National League,National League West,Active
+683409,Angel Chivilli,P,Pitcher,57,Right,Right,22,"6' 2""",162,COL,Colorado Rockies,115,National League,National League West,Active
+622608,Antonio Senzatela,P,Pitcher,49,Right,Right,30,"6' 1""",236,COL,Colorado Rockies,115,National League,National League West,Active
+687134,Bradley Blalock,P,Pitcher,64,Right,Right,24,"6' 2""",213,COL,Colorado Rockies,115,National League,National League West,Active
+686668,Brenton Doyle,CF,Outfielder,9,Right,Right,26,"6' 3""",220,COL,Colorado Rockies,115,National League,National League West,Active
+801403,Chase Dollander,P,Pitcher,32,Right,Right,23,"6' 2""",200,COL,Colorado Rockies,115,National League,National League West,Active
+608566,Germán Márquez,P,Pitcher,48,Right,Right,30,"6' 1""",230,COL,Colorado Rockies,115,National League,National League West,Active
+696100,Hunter Goodman,C,Catcher,15,Right,Right,25,"6' 0""",210,COL,Colorado Rockies,115,National League,National League West,Active
+607732,Jacob Stallings,C,Catcher,25,Right,Right,35,"6' 5""",225,COL,Colorado Rockies,115,National League,National League West,Active
+656234,Jake Bird,P,Pitcher,59,Right,Right,29,"6' 3""",200,COL,Colorado Rockies,115,National League,National League West,Active
+623474,Jimmy Herget,P,Pitcher,44,Right,Right,31,"6' 3""",170,COL,Colorado Rockies,115,National League,National League West,Active
+687597,Jordan Beck,LF,Outfielder,27,Right,Right,24,"6' 2""",225,COL,Colorado Rockies,115,National League,National League West,Active
+571657,Kyle Farmer,2B,Second Base,6,Right,Right,34,"5' 11""",205,COL,Colorado Rockies,115,National League,National League West,Active
+607536,Kyle Freeland,P,Pitcher,21,Left,Left,31,"6' 4""",204,COL,Colorado Rockies,115,National League,National League West,Active
+669911,Michael Toglia,1B,First Base,4,Switch,Left,26,"6' 5""",226,COL,Colorado Rockies,115,National League,National League West,Active
+666160,Mickey Moniak,CF,Outfielder,22,Left,Right,26,"6' 2""",195,COL,Colorado Rockies,115,National League,National League West,Active
+605361,Nick Martini,RF,Outfielder,35,Left,Left,34,"5' 11""",205,COL,Colorado Rockies,115,National League,National League West,Active
+680911,Owen Miller,1B,First Base,11,Right,Right,28,"5' 11""",197,COL,Colorado Rockies,115,National League,National League West,Active
+663372,Ryan Feltner,P,Pitcher,18,Right,Right,28,"6' 4""",190,COL,Colorado Rockies,115,National League,National League West,Active
+641857,Ryan McMahon,3B,Third Base,24,Left,Right,30,"6' 2""",219,COL,Colorado Rockies,115,National League,National League West,Active
+518397,Scott Alexander,P,Pitcher,52,Left,Left,35,"6' 2""",195,COL,Colorado Rockies,115,National League,National League West,Active
+656248,Sean Bouchard,RF,Outfielder,12,Right,Right,28,"6' 2""",215,COL,Colorado Rockies,115,National League,National League West,Active
+678020,Seth Halvorsen,P,Pitcher,54,Right,Right,25,"6' 2""",225,COL,Colorado Rockies,115,National League,National League West,Active
+641755,Tyler Kinley,P,Pitcher,40,Right,Right,34,"6' 4""",220,COL,Colorado Rockies,115,National League,National League West,Active
+688642,Zach Agnos,P,Pitcher,36,Right,Right,24,"6' 0""",210,COL,Colorado Rockies,115,National League,National League West,Active
+628451,Andy Ibáñez,3B,Third Base,77,Right,Right,32,"5' 10""",205,DET,Detroit Tigers,116,American League,American League Central,Active
+676428,Brant Hurter,P,Pitcher,48,Left,Left,26,"6' 6""",250,DET,Detroit Tigers,116,American League,American League Central,Active
+669724,Brenan Hanifee,P,Pitcher,75,Right,Right,26,"6' 5""",215,DET,Detroit Tigers,116,American League,American League Central,Active
+663554,Casey Mize,P,Pitcher,12,Right,Right,27,"6' 3""",212,DET,Detroit Tigers,116,American League,American League Central,Active
+695445,Chase Lee,P,Pitcher,53,Right,Right,26,"6' 0""",170,DET,Detroit Tigers,116,American League,American League Central,Active
+690993,Colt Keith,2B,Second Base,33,Left,Right,23,"6' 2""",211,DET,Detroit Tigers,116,American League,American League Central,Active
+693307,Dillon Dingler,C,Catcher,13,Right,Right,26,"6' 1""",210,DET,Detroit Tigers,116,American League,American League Central,Active
+650402,Gleyber Torres,2B,Second Base,25,Right,Right,28,"5' 11""",205,DET,Detroit Tigers,116,American League,American League Central,Active
+690291,Jace Jung,3B,Third Base,17,Left,Right,24,"6' 0""",205,DET,Detroit Tigers,116,American League,American League Central,Active
+656427,Jack Flaherty,P,Pitcher,9,Right,Right,29,"6' 4""",225,DET,Detroit Tigers,116,American League,American League Central,Active
+695549,Jackson Jobe,P,Pitcher,21,Right,Right,22,"6' 2""",190,DET,Detroit Tigers,116,American League,American League Central,Active
+595879,Javier Báez,3B,Third Base,28,Right,Right,32,"5' 11""",190,DET,Detroit Tigers,116,American League,American League Central,Active
+669234,Justyn-Henry Malloy,RF,Outfielder,44,Right,Right,25,"6' 1""",212,DET,Detroit Tigers,116,American League,American League Central,Active
+628317,Kenta Maeda,P,Pitcher,18,Right,Right,37,"6' 1""",185,DET,Detroit Tigers,116,American League,American League Central,Active
+681481,Kerry Carpenter,LF,Outfielder,30,Left,Right,27,"6' 1""",220,DET,Detroit Tigers,116,American League,American League Central,Active
+681857,Reese Olson,P,Pitcher,45,Right,Right,25,"6' 1""",160,DET,Detroit Tigers,116,American League,American League Central,Active
+682985,Riley Greene,LF,Outfielder,31,Left,Left,24,"6' 2""",200,DET,Detroit Tigers,116,American League,American League Central,Active
+674944,Sean Guenther,P,Pitcher,73,Left,Left,29,"5' 11""",194,DET,Detroit Tigers,116,American League,American League Central,Active
+679529,Spencer Torkelson,1B,First Base,20,Right,Right,25,"6' 1""",220,DET,Detroit Tigers,116,American League,American League Central,Active
+669373,Tarik Skubal,P,Pitcher,29,Right,Left,28,"6' 3""",240,DET,Detroit Tigers,116,American League,American League Central,Active
+621512,Tomás Nido,C,Catcher,58,Right,Right,31,"6' 0""",211,DET,Detroit Tigers,116,American League,American League Central,Active
+592454,Tommy Kahnle,P,Pitcher,43,Right,Right,35,"6' 1""",230,DET,Detroit Tigers,116,American League,American League Central,Active
+700242,Trey Sweeney,SS,Shortstop,27,Left,Right,25,"6' 3""",212,DET,Detroit Tigers,116,American League,American League Central,Active
+663947,Tyler Holton,P,Pitcher,87,Left,Left,28,"6' 2""",200,DET,Detroit Tigers,116,American League,American League Central,Active
+676684,Will Vest,P,Pitcher,19,Right,Right,29,"6' 0""",180,DET,Detroit Tigers,116,American League,American League Central,Active
+656716,Zach McKinstry,RF,Outfielder,39,Left,Right,29,"6' 0""",180,DET,Detroit Tigers,116,American League,American League Central,Active
+656986,Bennett Sousa,P,Pitcher,62,Left,Left,30,"6' 3""",220,HOU,Houston Astros,117,American League,American League West,Active
+663898,Brendan Rodgers,2B,Second Base,1,Right,Right,28,"6' 0""",204,HOU,Houston Astros,117,American League,American League West,Active
+650556,Bryan Abreu,P,Pitcher,52,Right,Right,28,"6' 1""",230,HOU,Houston Astros,117,American League,American League West,Active
+687911,Bryan King,P,Pitcher,74,Right,Left,28,"6' 1""",205,HOU,Houston Astros,117,American League,American League West,Active
+701358,Cam Smith,RF,Outfielder,11,Right,Right,22,"6' 3""",224,HOU,Houston Astros,117,American League,American League West,Active
+676801,Chas McCormick,CF,Outfielder,20,Right,Left,30,"6' 0""",208,HOU,Houston Astros,117,American League,American League West,Active
+572233,Christian Walker,1B,First Base,8,Right,Right,34,"5' 11""",208,HOU,Houston Astros,117,American League,American League West,Active
+664285,Framber Valdez,P,Pitcher,59,Right,Left,31,"5' 11""",230,HOU,Houston Astros,117,American League,American League West,Active
+669713,Hayden Wesneski,P,Pitcher,39,Right,Right,27,"6' 3""",210,HOU,Houston Astros,117,American League,American League West,Active
+686613,Hunter Brown,P,Pitcher,58,Right,Right,26,"6' 2""",220,HOU,Houston Astros,117,American League,American League West,Active
+670623,Isaac Paredes,3B,Third Base,15,Right,Right,26,"5' 11""",213,HOU,Houston Astros,117,American League,American League West,Active
+676694,Jake Meyers,CF,Outfielder,6,Right,Left,28,"6' 0""",200,HOU,Houston Astros,117,American League,American League West,Active
+665161,Jeremy Peña,SS,Shortstop,3,Right,Right,27,"6' 1""",202,HOU,Houston Astros,117,American League,American League West,Active
+514888,Jose Altuve,LF,Outfielder,27,Right,Right,34,"5' 6""",167,HOU,Houston Astros,117,American League,American League West,Active
+623352,Josh Hader,P,Pitcher,71,Left,Left,31,"6' 3""",188,HOU,Houston Astros,117,American League,American League West,Active
+672391,Kaleb Ort,P,Pitcher,63,Right,Right,33,"6' 4""",248,HOU,Houston Astros,117,American League,American League West,Active
+701121,Logan VanWey,P,Pitcher,64,Right,Right,26,"6' 2""",205,HOU,Houston Astros,117,American League,American League West,Active
+643289,Mauricio Dubón,2B,Second Base,14,Right,Right,30,"6' 0""",173,HOU,Houston Astros,117,American League,American League West,Active
+669854,Ronel Blanco,P,Pitcher,56,Right,Right,31,"6' 3""",265,HOU,Houston Astros,117,American League,American League West,Active
+687473,Ryan Gusto,P,Pitcher,67,Right,Right,26,"6' 4""",232,HOU,Houston Astros,117,American League,American League West,Active
+595345,Steven Okert,P,Pitcher,48,Left,Left,33,"6' 2""",202,HOU,Houston Astros,117,American League,American League West,Active
+605463,Tayler Scott,P,Pitcher,50,Right,Right,32,"6' 3""",185,HOU,Houston Astros,117,American League,American League West,Active
+605170,Victor Caratini,C,Catcher,17,Switch,Right,31,"6' 0""",225,HOU,Houston Astros,117,American League,American League West,Active
+673237,Yainer Diaz,C,Catcher,21,Right,Right,26,"5' 11""",195,HOU,Houston Astros,117,American League,American League West,Active
+670541,Yordan Alvarez,LF,Outfielder,44,Left,Right,27,"6' 4""",237,HOU,Houston Astros,117,American League,American League West,Active
+701305,Zach Dezenzo,RF,Outfielder,9,Right,Right,24,"6' 5""",220,HOU,Houston Astros,117,American League,American League West,Active
+672582,Angel Zerpa,P,Pitcher,61,Left,Left,25,"6' 0""",220,KC,Kansas City Royals,118,American League,American League Central,Active
+677951,Bobby Witt Jr.,SS,Shortstop,7,Right,Right,24,"6' 1""",200,KC,Kansas City Royals,118,American League,American League Central,Active
+608032,Carlos Estévez,P,Pitcher,53,Right,Right,32,"6' 6""",277,KC,Kansas City Royals,118,American League,American League Central,Active
+624415,Cavan Biggio,1B,First Base,18,Left,Right,30,"6' 1""",200,KC,Kansas City Royals,118,American League,American League Central,Active
+608717,Chris Stratton,P,Pitcher,35,Right,Right,34,"6' 2""",205,KC,Kansas City Royals,118,American League,American League Central,Active
+666142,Cole Ragans,P,Pitcher,55,Left,Left,27,"6' 4""",190,KC,Kansas City Royals,118,American League,American League Central,Active
+663738,Daniel Lynch IV,P,Pitcher,41,Left,Left,28,"6' 6""",200,KC,Kansas City Royals,118,American League,American League Central,Active
+671221,Drew Waters,LF,Outfielder,8,Switch,Right,26,"6' 1""",185,KC,Kansas City Royals,118,American League,American League Central,Active
+666023,Freddy Fermin,C,Catcher,34,Right,Right,29,"5' 10""",200,KC,Kansas City Royals,118,American League,American League Central,Active
+592669,Hunter Renfroe,RF,Outfielder,16,Right,Right,33,"6' 1""",230,KC,Kansas City Royals,118,American League,American League Central,Active
+670167,John Schreiber,P,Pitcher,46,Right,Right,31,"6' 2""",224,KC,Kansas City Royals,118,American League,American League Central,Active
+680742,Jonathan Bowlan,P,Pitcher,62,Right,Right,28,"6' 6""",240,KC,Kansas City Royals,118,American League,American League Central,Active
+663697,Jonathan India,3B,Third Base,6,Right,Right,28,"5' 11""",200,KC,Kansas City Royals,118,American League,American League Central,Active
+663460,Kris Bubic,P,Pitcher,50,Left,Left,27,"6' 3""",225,KC,Kansas City Royals,118,American League,American League Central,Active
+664728,Kyle Isbel,CF,Outfielder,28,Left,Right,28,"5' 10""",190,KC,Kansas City Royals,118,American League,American League Central,Active
+668674,Lucas Erceg,P,Pitcher,60,Left,Right,29,"6' 2""",214,KC,Kansas City Royals,118,American League,American League Central,Active
+672580,Maikel Garcia,3B,Third Base,11,Right,Right,25,"6' 1""",180,KC,Kansas City Royals,118,American League,American League Central,Active
+592192,Mark Canha,1B,First Base,21,Right,Right,36,"6' 2""",200,KC,Kansas City Royals,118,American League,American League Central,Active
+547179,Michael Lorenzen,P,Pitcher,24,Right,Right,33,"6' 3""",217,KC,Kansas City Royals,118,American League,American League Central,Active
+686681,Michael Massey,2B,Second Base,19,Left,Right,27,"6' 0""",195,KC,Kansas City Royals,118,American League,American League Central,Active
+608379,Michael Wacha,P,Pitcher,52,Right,Right,33,"6' 6""",215,KC,Kansas City Royals,118,American League,American League Central,Active
+679845,Nick Loftin,2B,Second Base,12,Right,Right,26,"6' 0""",180,KC,Kansas City Royals,118,American League,American League Central,Active
+521692,Salvador Perez,C,Catcher,13,Right,Right,34,"6' 3""",255,KC,Kansas City Royals,118,American League,American League Central,Active
+607625,Seth Lugo,P,Pitcher,67,Right,Right,35,"6' 4""",225,KC,Kansas City Royals,118,American League,American League Central,Active
+674444,Steven Cruz,P,Pitcher,64,Right,Right,25,"6' 7""",225,KC,Kansas City Royals,118,American League,American League Central,Active
+686469,Vinnie Pasquantino,1B,First Base,9,Left,Left,27,"6' 3""",245,KC,Kansas City Royals,118,American League,American League Central,Active
+681911,Alex Vesia,P,Pitcher,51,Left,Left,29,"6' 1""",209,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+681624,Andy Pages,CF,Outfielder,44,Right,Right,24,"6' 1""",212,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+607455,Anthony Banda,P,Pitcher,43,Left,Left,31,"6' 2""",221,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+605131,Austin Barnes,C,Catcher,15,Right,Right,35,"5' 9""",187,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+676508,Ben Casparius,P,Pitcher,78,Right,Right,26,"6' 2""",215,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+621035,Chris Taylor,LF,Outfielder,3,Right,Right,34,"6' 0""",196,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+669160,Dustin May,P,Pitcher,85,Right,Right,27,"6' 6""",180,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+571771,Enrique Hernández,1B,First Base,8,Right,Right,33,"5' 10""",195,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+623465,Evan Phillips,P,Pitcher,59,Right,Right,30,"6' 2""",215,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+518692,Freddie Freeman,1B,First Base,5,Left,Right,35,"6' 4""",220,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+676263,Jack Dreyer,P,Pitcher,86,Right,Left,26,"6' 2""",205,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+489446,Kirby Yates,P,Pitcher,38,Left,Right,38,"5' 10""",205,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+472610,Luis García,P,Pitcher,57,Right,Right,38,"6' 2""",240,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+571970,Max Muncy,3B,Third Base,13,Left,Right,34,"5' 10""",215,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+624424,Michael Conforto,LF,Outfielder,23,Left,Right,32,"5' 11""",215,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+500743,Miguel Rojas,SS,Shortstop,72,Right,Right,36,"5' 11""",188,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+605141,Mookie Betts,SS,Shortstop,50,Right,Right,32,"5' 10""",180,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+808963,Roki Sasaki,P,Pitcher,11,Right,Right,23,"6' 2""",187,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+660271,Shohei Ohtani,TWP,Two-Way Player,17,Left,Right,30,"6' 3""",210,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+656945,Tanner Scott,P,Pitcher,66,Right,Left,30,"6' 0""",235,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+606192,Teoscar Hernández,RF,Outfielder,37,Right,Right,32,"6' 0""",215,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+669242,Tommy Edman,2B,Second Base,25,Switch,Right,29,"5' 9""",193,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+607192,Tyler Glasnow,P,Pitcher,31,Left,Right,31,"6' 8""",225,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+669257,Will Smith,C,Catcher,16,Right,Right,30,"5' 10""",195,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+672782,Yoendrys Gómez,P,Pitcher,94,Right,Right,25,"6' 3""",212,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+808967,Yoshinobu Yamamoto,P,Pitcher,18,Right,Right,26,"5' 10""",176,LAD,Los Angeles Dodgers,119,National League,National League West,Active
+669743,Alex Call,RF,Outfielder,17,Right,Right,30,"5' 11""",189,WSH,Washington Nationals,120,National League,National League East,Active
+642708,Amed Rosario,3B,Third Base,13,Right,Right,29,"6' 2""",190,WSH,Washington Nationals,120,National League,National League East,Active
+695418,Brad Lord,P,Pitcher,61,Right,Right,25,"6' 3""",210,WSH,Washington Nationals,120,National League,National League East,Active
+682928,CJ Abrams,SS,Shortstop,5,Left,Right,24,"6' 0""",191,WSH,Washington Nationals,120,National League,National League East,Active
+669371,Cole Henry,P,Pitcher,99,Right,Right,25,"6' 4""",200,WSH,Washington Nationals,120,National League,National League East,Active
+621363,Colin Poche,P,Pitcher,41,Left,Left,31,"6' 3""",225,WSH,Washington Nationals,120,National League,National League East,Active
+686611,Dylan Crews,RF,Outfielder,3,Right,Right,23,"6' 0""",203,WSH,Washington Nationals,120,National League,National League East,Active
+674285,Eduardo Salazar,P,Pitcher,62,Right,Right,26,"6' 2""",177,WSH,Washington Nationals,120,National League,National League East,Active
+671131,Jackson Rutledge,P,Pitcher,79,Right,Right,26,"6' 8""",241,WSH,Washington Nationals,120,National League,National League East,Active
+696285,Jacob Young,CF,Outfielder,30,Right,Right,25,"5' 11""",192,WSH,Washington Nationals,120,National League,National League East,Active
+663623,Jake Irvin,P,Pitcher,27,Right,Right,28,"6' 6""",234,WSH,Washington Nationals,120,National League,National League East,Active
+695578,James Wood,LF,Outfielder,29,Left,Right,22,"6' 7""",234,WSH,Washington Nationals,120,National League,National League East,Active
+605347,Jorge López,P,Pitcher,21,Right,Right,32,"6' 3""",200,WSH,Washington Nationals,120,National League,National League East,Active
+678606,Jose A. Ferrer,P,Pitcher,47,Left,Left,25,"6' 1""",233,WSH,Washington Nationals,120,National League,National League East,Active
+677588,José Tena,3B,Third Base,8,Left,Right,24,"5' 11""",195,WSH,Washington Nationals,120,National League,National League East,Active
+605137,Josh Bell,1B,First Base,19,Switch,Right,32,"6' 3""",261,WSH,Washington Nationals,120,National League,National League East,Active
+660688,Keibert Ruiz,C,Catcher,20,Switch,Right,26,"6' 0""",238,WSH,Washington Nationals,120,National League,National League East,Active
+640448,Kyle Finnegan,P,Pitcher,67,Right,Right,33,"6' 2""",198,WSH,Washington Nationals,120,National League,National League East,Active
+608371,Lucas Sims,P,Pitcher,39,Right,Right,30,"6' 2""",213,WSH,Washington Nationals,120,National League,National League East,Active
+671277,Luis García Jr.,2B,Second Base,2,Left,Right,24,"6' 1""",216,WSH,Washington Nationals,120,National League,National League East,Active
+669022,MacKenzie Gore,P,Pitcher,1,Left,Left,26,"6' 2""",193,WSH,Washington Nationals,120,National League,National League East,Active
+680730,Mitchell Parker,P,Pitcher,70,Left,Left,25,"6' 4""",239,WSH,Washington Nationals,120,National League,National League East,Active
+683083,Nasim Nuñez,SS,Shortstop,26,Switch,Right,24,"5' 8""",165,WSH,Washington Nationals,120,National League,National League East,Active
+663993,Nathaniel Lowe,1B,First Base,33,Left,Right,29,"6' 4""",220,WSH,Washington Nationals,120,National League,National League East,Active
+656180,Riley Adams,C,Catcher,15,Right,Right,28,"6' 4""",263,WSH,Washington Nationals,120,National League,National League East,Active
+592866,Trevor Williams,P,Pitcher,32,Right,Right,33,"6' 3""",231,WSH,Washington Nationals,120,National League,National League East,Active
+607043,Brandon Nimmo,LF,Outfielder,9,Left,Right,32,"6' 2""",206,NYM,New York Mets,121,National League,National League East,Active
+605280,Clay Holmes,P,Pitcher,35,Right,Right,32,"6' 5""",245,NYM,New York Mets,121,National League,National League East,Active
+664849,Danny Young,P,Pitcher,81,Left,Left,30,"6' 3""",200,NYM,New York Mets,121,National League,National League East,Active
+656849,David Peterson,P,Pitcher,23,Left,Left,29,"6' 6""",240,NYM,New York Mets,121,National League,National League East,Active
+621242,Edwin Díaz,P,Pitcher,39,Right,Right,31,"6' 3""",165,NYM,New York Mets,121,National League,National League East,Active
+682626,Francisco Alvarez,C,Catcher,4,Right,Right,23,"5' 10""",233,NYM,New York Mets,121,National League,National League East,Active
+596019,Francisco Lindor,SS,Shortstop,12,Switch,Right,31,"5' 10""",190,NYM,New York Mets,121,National League,National League East,Active
+656288,Griffin Canning,P,Pitcher,46,Right,Right,28,"6' 2""",180,NYM,New York Mets,121,National League,National League East,Active
+623211,Huascar Brazobán,P,Pitcher,43,Right,Right,35,"6' 3""",155,NYM,New York Mets,121,National League,National League East,Active
+643446,Jeff McNeil,2B,Second Base,1,Left,Right,33,"6' 0""",195,NYM,New York Mets,121,National League,National League East,Active
+608385,Jesse Winker,LF,Outfielder,3,Left,Left,31,"6' 2""",206,NYM,New York Mets,121,National League,National League East,Active
+640492,José Azocar,LF,Outfielder,28,Right,Right,28,"5' 11""",181,NYM,New York Mets,121,National League,National League East,Active
+676130,José Buttó,P,Pitcher,70,Right,Right,27,"6' 1""",202,NYM,New York Mets,121,National League,National League East,Active
+570632,José Ureña,P,Pitcher,54,Right,Right,33,"6' 2""",208,NYM,New York Mets,121,National League,National League East,Active
+665742,Juan Soto,RF,Outfielder,22,Left,Left,26,"6' 1""",224,NYM,New York Mets,121,National League,National League East,Active
+673540,Kodai Senga,P,Pitcher,34,Left,Right,32,"6' 1""",202,NYM,New York Mets,121,National League,National League East,Active
+620443,Luis Torrens,C,Catcher,13,Right,Right,28,"5' 11""",217,NYM,New York Mets,121,National League,National League East,Active
+682668,Luisangel Acuña,2B,Second Base,2,Right,Right,23,"5' 8""",181,NYM,New York Mets,121,National League,National League East,Active
+668901,Mark Vientos,3B,Third Base,27,Right,Right,25,"6' 3""",185,NYM,New York Mets,121,National League,National League East,Active
+668820,Max Kranick,P,Pitcher,32,Right,Right,27,"6' 3""",220,NYM,New York Mets,121,National League,National League East,Active
+624413,Pete Alonso,1B,First Base,20,Right,Right,30,"6' 3""",245,NYM,New York Mets,121,National League,National League East,Active
+657585,Reed Garrett,P,Pitcher,75,Right,Right,32,"6' 2""",195,NYM,New York Mets,121,National League,National League East,Active
+592773,Ryne Stanek,P,Pitcher,55,Right,Right,33,"6' 4""",226,NYM,New York Mets,121,National League,National League East,Active
+516782,Starling Marte,RF,Outfielder,6,Right,Right,36,"6' 0""",195,NYM,New York Mets,121,National League,National League East,Active
+656731,Tylor Megill,P,Pitcher,38,Right,Right,29,"6' 7""",230,NYM,New York Mets,121,National League,National League East,Active
+621438,Tyrone Taylor,CF,Outfielder,15,Right,Right,31,"6' 1""",218,NYM,New York Mets,121,National League,National League East,Active
