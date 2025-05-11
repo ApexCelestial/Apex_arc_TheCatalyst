@@ -29,7 +29,7 @@ jobs:
 
       - name: Archive Output Files
         if: success()
-        uses: actions/upload-artifact@v3.1.3  # Fixed version
+        uses: actions/upload-artifact@d8dcd5fdd61fc903fbe9ed92acb5ff3949f3c252
         with:
           name: apex-arc-output
           path: output/
