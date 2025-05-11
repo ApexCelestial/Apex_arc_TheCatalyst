@@ -3,7 +3,7 @@ name: Apex Arc Engine Daily Run
 on:
   schedule:
     - cron: '0 14 * * *'  # Runs daily at 14:00 UTC (9 AM EST)
-  workflow_dispatch:      # Allows manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   run-daily-engine:
@@ -29,7 +29,7 @@ jobs:
 
       - name: Archive Output Files
         if: success()
-        uses: actions/upload-artifact@d8dcd5fdd61fc903fbe9ed92acb5ff3949f3c252
+        uses: actions/upload-artifact@v4
         with:
           name: apex-arc-output
           path: output/
